@@ -1,0 +1,557 @@
+{
+  "processed": {
+    "1H4Wb-yJ1AiS2NiWc-y7hXtlQzZ0GPCvU": {
+      "name": "Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf",
+      "time": "2026-07-06T09:18:16.575931+00:00",
+      "modifiedTime": "2026-07-06T07:57:23.000Z",
+      "dify_doc_id": "0a8c2fc7-54e3-460a-82d8-f9415e0898fc",
+      "dify_doc_ids": [
+        "0a8c2fc7-54e3-460a-82d8-f9415e0898fc"
+      ],
+      "status": "complete"
+    },
+    "1AIQ7feRpVsnefDZL6rqFVN7lp-05cCxq": {
+      "name": "Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub",
+      "time": "2026-07-06T09:18:36.037912+00:00",
+      "modifiedTime": "2026-07-06T07:57:00.000Z",
+      "dify_doc_id": "de7c32e5-0ae1-4c7d-a742-c2d4dca2de36",
+      "dify_doc_ids": [
+        "de7c32e5-0ae1-4c7d-a742-c2d4dca2de36"
+      ],
+      "status": "complete"
+    },
+    "1dOvbNjBk_8NAMQIDFsh9BMch6LNT3n1I": {
+      "name": "HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf",
+      "time": "2026-07-06T09:18:42.221060+00:00",
+      "modifiedTime": "2026-06-27T04:42:27.000Z",
+      "dify_doc_id": "c1afb230-2903-445b-8111-2463752167a0",
+      "dify_doc_ids": [
+        "c1afb230-2903-445b-8111-2463752167a0"
+      ],
+      "status": "complete"
+    },
+    "1Ptcc8oOMOejFPBM_3vW2MYlECKefNZQi": {
+      "name": "Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf",
+      "time": "2026-07-06T09:18:49.020474+00:00",
+      "modifiedTime": "2026-06-27T04:41:40.000Z",
+      "dify_doc_id": "52ea37ca-2149-48f1-b7de-be6a848373f2",
+      "dify_doc_ids": [
+        "52ea37ca-2149-48f1-b7de-be6a848373f2"
+      ],
+      "status": "complete"
+    },
+    "1x0GJsfRyJRo6sSX_taOPMtx-LABQ6YtE": {
+      "name": "Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf",
+      "time": "2026-07-06T09:18:54.628909+00:00",
+      "modifiedTime": "2026-06-27T04:41:25.000Z",
+      "dify_doc_id": "b71051cf-5eef-49c3-86a8-8a39410b873d",
+      "dify_doc_ids": [
+        "b71051cf-5eef-49c3-86a8-8a39410b873d"
+      ],
+      "status": "complete"
+    },
+    "1nhSowgiM5oo0Kw_rTyI9B7L8xVEgV7kl": {
+      "name": "Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf",
+      "time": "2026-07-06T09:19:41.469600+00:00",
+      "modifiedTime": "2026-04-27T06:28:41.000Z",
+      "dify_doc_id": "da724869-7df8-4113-a398-4f8272b0c200",
+      "dify_doc_ids": [
+        "da724869-7df8-4113-a398-4f8272b0c200"
+      ],
+      "status": "complete"
+    },
+    "19WamdHx18qCrhLcftFZoPdxu9j0bQp4F": {
+      "name": "Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf",
+      "time": "2026-07-06T09:19:45.123740+00:00",
+      "modifiedTime": "2026-04-27T06:28:12.000Z",
+      "dify_doc_id": "8ef8e3b1-d93c-4190-b35f-d2cc31a40ffa",
+      "dify_doc_ids": [
+        "8ef8e3b1-d93c-4190-b35f-d2cc31a40ffa"
+      ],
+      "status": "complete"
+    },
+    "11K50Zptf6E6P0UXCsRqEN1VF3Fd7J0Cp": {
+      "name": "Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf",
+      "time": "2026-07-06T09:19:55.932433+00:00",
+      "modifiedTime": "2026-04-14T03:06:25.000Z",
+      "dify_doc_id": "14257a44-0fe7-46e2-9c77-2fe80525a2d8",
+      "dify_doc_ids": [
+        "14257a44-0fe7-46e2-9c77-2fe80525a2d8"
+      ],
+      "status": "complete"
+    },
+    "1jW4bJ7wUbXwlN2s7LzorWHPEesLEH4xv": {
+      "name": "Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf",
+      "time": "2026-07-06T09:20:10.102099+00:00",
+      "modifiedTime": "2026-04-13T08:40:16.000Z",
+      "dify_doc_id": "1c785ec1-0dd1-43ca-bcb6-4d239238d515",
+      "dify_doc_ids": [
+        "1c785ec1-0dd1-43ca-bcb6-4d239238d515"
+      ],
+      "status": "complete"
+    },
+    "15xtta5HKR05qPR0UtHZv5OKdRRCjxyvW": {
+      "name": "Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf",
+      "time": "2026-07-06T09:20:51.878493+00:00",
+      "modifiedTime": "2026-04-13T08:31:12.000Z",
+      "dify_doc_id": "c35f3c10-cde2-4cc5-ab20-a215e626b038",
+      "dify_doc_ids": [
+        "c35f3c10-cde2-4cc5-ab20-a215e626b038"
+      ],
+      "status": "complete"
+    },
+    "1ZQfHXKRCftWRhFWBss_grH98YsvnMlst": {
+      "name": "DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub",
+      "time": "2026-07-06T09:20:58.084661+00:00",
+      "modifiedTime": "2026-04-13T08:31:02.000Z",
+      "dify_doc_id": "67533fa5-80c6-4819-9399-da9ae76d551b",
+      "dify_doc_ids": [
+        "67533fa5-80c6-4819-9399-da9ae76d551b"
+      ],
+      "status": "complete"
+    },
+    "1_kPFwD8lhifhMRp7B7YWeukVK6h_3Szn": {
+      "name": "Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub",
+      "time": "2026-07-06T09:21:00.573786+00:00",
+      "modifiedTime": "2026-04-13T08:21:00.000Z",
+      "dify_doc_id": "174560ea-8cbd-47c7-89ac-3c55b9da3de3",
+      "dify_doc_ids": [
+        "174560ea-8cbd-47c7-89ac-3c55b9da3de3"
+      ],
+      "status": "complete"
+    },
+    "1RoGVpCrZrpQsX_RpRVwgwpj5Y-kIsWk8": {
+      "name": "Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf",
+      "time": "2026-07-06T09:21:10.851324+00:00",
+      "modifiedTime": "2026-04-02T07:55:47.000Z",
+      "dify_doc_id": "8a663afa-ad51-4a3a-96ff-8421608650b1",
+      "dify_doc_ids": [
+        "8a663afa-ad51-4a3a-96ff-8421608650b1"
+      ],
+      "status": "complete"
+    },
+    "1uBbsxd28tnC8YHzgmN6t9S_fUh0oSPij": {
+      "name": "FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf",
+      "time": "2026-07-06T09:54:20.331848+00:00",
+      "modifiedTime": "2026-07-06T08:25:35.000Z",
+      "dify_doc_id": "e96ba3d9-8409-4e58-9b75-4abb68ad7a7d",
+      "dify_doc_ids": [
+        "e96ba3d9-8409-4e58-9b75-4abb68ad7a7d"
+      ],
+      "status": "complete"
+    },
+    "105Z2WgfnPjjexcjMbzd6b-Tt3nikj8Fa": {
+      "name": "ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf",
+      "time": "2026-07-06T09:54:26.049832+00:00",
+      "modifiedTime": "2026-07-06T08:19:46.000Z",
+      "dify_doc_id": "5bd3e0e4-726a-4ce7-ac86-2288da75b2c0",
+      "dify_doc_ids": [
+        "5bd3e0e4-726a-4ce7-ac86-2288da75b2c0"
+      ],
+      "status": "complete"
+    },
+    "1l8vR6zbXBoIOpS7AAqNcBZe3MpxXWr05": {
+      "name": "ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf",
+      "time": "2026-07-06T09:54:33.052213+00:00",
+      "modifiedTime": "2026-07-06T08:16:49.000Z",
+      "dify_doc_id": "589c5e28-c056-4fe4-ba59-54d720fd7889",
+      "dify_doc_ids": [
+        "589c5e28-c056-4fe4-ba59-54d720fd7889"
+      ],
+      "status": "complete"
+    },
+    "1Y5_hZI5ObcSvIRpqsd9iRIYp4UxjQtNb": {
+      "name": "ASHRAE Real-time energy consumption measurements in data centers 2019.pdf",
+      "time": "2026-07-06T09:54:39.897124+00:00",
+      "modifiedTime": "2026-07-06T07:59:00.000Z",
+      "dify_doc_id": "f4ee3d0b-6c22-49a4-9ed0-18213dfb7ca5",
+      "dify_doc_ids": [
+        "f4ee3d0b-6c22-49a4-9ed0-18213dfb7ca5"
+      ],
+      "status": "complete"
+    },
+    "12YjNEstE93nvhp2ZFI3Cp8dYikHtYBtU": {
+      "name": "BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf",
+      "time": "2026-07-06T09:54:43.856779+00:00",
+      "modifiedTime": "2026-07-06T07:56:52.000Z",
+      "dify_doc_id": "70c28a39-d97b-453f-9150-46e8442c5552",
+      "dify_doc_ids": [
+        "70c28a39-d97b-453f-9150-46e8442c5552"
+      ],
+      "status": "complete"
+    },
+    "1mv9eiaORP0GJzovadG_7OkyZqrUcKBtw": {
+      "name": "ASHRAE_TC0909_Storage_White_Paper_2015.pdf",
+      "time": "2026-07-06T09:54:49.854775+00:00",
+      "modifiedTime": "2026-07-06T07:51:31.000Z",
+      "dify_doc_id": "10e8ed20-f6dc-4131-9021-fb6897d55c2d",
+      "dify_doc_ids": [
+        "10e8ed20-f6dc-4131-9021-fb6897d55c2d"
+      ],
+      "status": "complete"
+    },
+    "1ap5L0TPpXDL6zNUOhozcf7qKXnv-bFjY": {
+      "name": "ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf",
+      "time": "2026-07-06T09:54:54.504194+00:00",
+      "modifiedTime": "2026-07-06T07:51:29.000Z",
+      "dify_doc_id": "fc48510c-f6c9-486a-8068-5dde7b763d87",
+      "dify_doc_ids": [
+        "fc48510c-f6c9-486a-8068-5dde7b763d87"
+      ],
+      "status": "complete"
+    },
+    "1fzqlP42t3yH6tk1PLi7AJdd8MiMNHxoC": {
+      "name": "ASHRAE_TC0909_Networking Thermal Guidelines.pdf",
+      "time": "2026-07-06T09:54:58.641128+00:00",
+      "modifiedTime": "2026-07-06T07:51:26.000Z",
+      "dify_doc_id": "762edd27-a9d5-4252-8361-780c89a17d88",
+      "dify_doc_ids": [
+        "762edd27-a9d5-4252-8361-780c89a17d88"
+      ],
+      "status": "complete"
+    },
+    "1-CiDotRibajjjS0Br_0L6VN_WRfLq5F2": {
+      "name": "ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf",
+      "time": "2026-07-06T09:55:03.519434+00:00",
+      "modifiedTime": "2026-07-06T07:51:24.000Z",
+      "dify_doc_id": "a5ee7645-3679-40ed-a9f7-06c913de9dd3",
+      "dify_doc_ids": [
+        "a5ee7645-3679-40ed-a9f7-06c913de9dd3"
+      ],
+      "status": "complete"
+    },
+    "1LZuWEDwOoIBP5fHY8TR_01oWHcJn8L_p": {
+      "name": "ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf",
+      "time": "2026-07-06T09:55:06.852868+00:00",
+      "modifiedTime": "2026-07-06T07:51:21.000Z",
+      "dify_doc_id": "26e61afb-ed75-44fe-83a4-cbeacc602cbe",
+      "dify_doc_ids": [
+        "26e61afb-ed75-44fe-83a4-cbeacc602cbe"
+      ],
+      "status": "complete"
+    }
+  },
+  "last_run": "2026-07-06T09:56:57.916449+00:00",
+  "failed": {
+    "13wsPp4hFatFvZ1aP6L7jLheLeZvhi9oX": {
+      "name": "ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:09.395682+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1lz9msoPsaP__AUWNm9AgjwArU2A3SzWr": {
+      "name": "ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:11.730965+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1FLPhwCWWfsjToQePiY26de5uBeNZ5htx": {
+      "name": "ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:13.312170+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1ELcxa-Cm7knafdBL3eADNqnM9dsBSvMH": {
+      "name": "ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:14.561759+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1RiZu7QBGv8OxxWSjf7JB9jvRhk3A7E53": {
+      "name": "ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:15.869249+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1OaNONat9qg9TJEo7Vb9G3LZE4UraCEj9": {
+      "name": "ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:18.228071+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "15zgP4oYKY70hYMV3pyHaMyhED6qh41Zl": {
+      "name": "ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:21.299853+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "11Jn4Mw-8UWFZ8JS9yoZwSmJXi0l7-bQh": {
+      "name": "BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:23.399755+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1iO5GEIFXwZO888iZsF9iQQGEe4hFwcT1": {
+      "name": "ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:26.929142+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1b8poS-10o6UnpJphdeqv351D2aKK5O4v": {
+      "name": "ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:29.807453+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "16DZT_RQWKBP8y1U6Pvp3B9KtBIGGoBtJ": {
+      "name": "ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:33.837842+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "14rDLNsaSsjx2hRNxEtC9bb6KgvR42C25": {
+      "name": "ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:36.007998+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1JJrhhMrQoo4ZE-i15y9BOTFMPO5c92Jd": {
+      "name": "ANSI ASHRAEASHE Standard 170-2021.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:37.693772+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1v5yy4xqi_ZwIpKE0aDLP0v_sXVSkgfhx": {
+      "name": "Trane HVAC System Control 2002.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:40.414807+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1n1JJWYyxDx_IvR3Tiylsev8JoNdsWPh0": {
+      "name": "Trane Chilled-Water Systems 2001.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:43.032622+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1sMvpR-oZfp-95a2exiuF7hMOBYY60n53": {
+      "name": "ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:46.390495+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1uW7nvJYQ6pgOEkUXakYqNTgwd_EEc3GU": {
+      "name": "ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:48.783937+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "11qetErqaNCaTapIrSiGPYzJ_J-3ETVAn": {
+      "name": "Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:54.874005+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "13a5v90u7wHbMeh-JHngI_Q2z-W_b0Yz5": {
+      "name": "ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:56.999085+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1cO9SBgW3wUbREK2CpVwoEY7OgxopJkVz": {
+      "name": "Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:55:59.492768+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "17I6fJ7KiMXvrpX2ZtTJIiAZtQrfr2yEO": {
+      "name": "IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:01.180782+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1Svelj0hGZ8zjrk5K6_fAKiKP5lD4NqSn": {
+      "name": "Cooling With Liquid Electronics Take The Plunge 2023.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:05.899588+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1oi-F47GQy-tYzMJTAo9QbAef1Sc9ERr0": {
+      "name": "REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:10.206843+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1Sw6E0db7C-zYQxp62u1dDaBm4fG1riBV": {
+      "name": "Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:15.846243+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1J43m201pnkqDJ3dGYVvVUXz9JDZMnyAk": {
+      "name": "CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:17.697322+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1LHEaIMq2YwPooHtu4w2D7KjHRrWSP7VO": {
+      "name": "CIBSE Commissioning Code M Commissioning Management 2003.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:19.411878+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1L-0fTPbVhZ5lZSSYTfllgywpVKZxBqSw": {
+      "name": "The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:21.603744+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "10midYToMuQrym0ZCn6M-TA__lCO034Fe": {
+      "name": "ESGs Come Away with ESG 2023 Cheri Percy.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:24.861210+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1sa6By1woVEyQ29vIjX9gY4jmfHu0xo67": {
+      "name": "ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:27.386863+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1-jLFl1U-ugnY1dJKRM9zSsK52Io8BDP7": {
+      "name": "Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:29.074603+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1Z31Xl3cCEEyBOMZdL5rccgBLCWD45xOQ": {
+      "name": "ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:32.124840+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1-IiYIYOhoMAFYgAaxv8G5624IugCLXRG": {
+      "name": "Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:36.399089+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "16uMNEFUsjYGkgr0gYUAhBJfepcTSGv3V": {
+      "name": "ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:39.272964+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1RCh_5AGd1XMrO7E4tQd1ypRCVcoyXUGh": {
+      "name": "Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:41.351836+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1ycd6J_SWXHge8tO8jb2S2O34udqx8wis": {
+      "name": "ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:45.944034+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1gU8LdnM7gX54GAoNTRTIxzObkC_MFl1T": {
+      "name": "NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:49.313809+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1AV3MZU1QKRFlBDLPQptbfIwn2eswjL6s": {
+      "name": "EPA_Offices_Ventilation_Factsheet_1990.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:50.757989+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1u4SZlSIX8Ob-pV6gmOtDMJPV6_MeW_bp": {
+      "name": "Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:55.773875+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    },
+    "1e_refZx5u7YHNgA1xysG698uXPbgMYS6": {
+      "name": "ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf",
+      "error": "Dify upload failed (HTTP 403): {\"code\":\"forbidden\",\"message\":\"Sorry, you have reached the knowledge base request rate limit of your subscription.\",\"status\":403}\n",
+      "time": "2026-07-06T09:56:57.916419+00:00",
+      "retries": 1,
+      "max_retries": 3,
+      "status": "upload_failed"
+    }
+  },
+  "deferred": {
+    "1jIxrKoiqh5O4nkDwHafk5x1fhRexR7KJ": {
+      "name": "CIBSE Guide B2 Ventilation and Ductwork 2016.pdf",
+      "error": "File exceeds 14MB limit (15MB)",
+      "time": "2026-07-06T09:56:50.767510+00:00",
+      "status": "deferred"
+    }
+  }
+}

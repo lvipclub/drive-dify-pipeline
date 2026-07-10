@@ -1,0 +1,19 @@
+google_drive:
+  folder_id: "1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102"
+  credentials_path: "~/workspace/google_client_secret.json"
+  token_path: "~/.hermes/config/drive-refresh-token.json"
+
+dify:
+  base_url: "https://api.dify.ai/v1"
+  dataset_id: "51610c8d-79c7-41fb-bb7e-1af3b120a850"
+
+pipeline:
+  state_file: "state.json"
+  log_dir: "logs"
+  max_file_size_mb: 14   # Dify free tier ~15MB limit
+  chunk_max_chars: 8000
+  max_chunks_per_file: 50
+  max_retries: 3
+  timeout_drive: 30
+  timeout_dify: 60
+  timeout_download: 300

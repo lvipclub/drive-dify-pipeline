@@ -1,0 +1,1228 @@
+2026-07-03 19:01:25 [INFO    ] ============================================================
+2026-07-03 19:01:25 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-03 19:01:25 [INFO    ]   Dry run: True
+2026-07-03 19:01:25 [INFO    ]   Loop mode: False
+2026-07-03 19:01:25 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-03 19:01:25 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-03 19:01:25 [INFO    ] ============================================================
+2026-07-03 19:01:25 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-03 19:01:25 [DEBUG   ] Disk space OK: 891751MB free in /tmp
+2026-07-03 19:01:25 [INFO    ] No existing state file — starting fresh
+2026-07-03 19:01:25 [INFO    ] Authenticating with Google Drive...
+2026-07-03 19:01:25 [DEBUG   ] Fetching Drive page 1...
+2026-07-03 19:01:26 [DEBUG   ] Page 1: 0 files (total: 0)
+2026-07-03 19:01:26 [INFO    ] Drive listing complete: 0 files across 1 pages
+2026-07-03 19:01:26 [INFO    ] No files found in Drive folder
+2026-07-03 19:01:26 [INFO    ] PID lock released
+2026-07-03 19:01:26 [INFO    ] Pipeline finished in 0.6s: 0 ingested, 0 skipped, 0 failed, 0 deferred, 0 deleted from Drive
+2026-07-03 19:16:58 [INFO    ] ============================================================
+2026-07-03 19:16:58 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-03 19:16:58 [INFO    ]   Dry run: True
+2026-07-03 19:16:58 [INFO    ]   Loop mode: False
+2026-07-03 19:16:58 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-03 19:16:58 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-03 19:16:58 [INFO    ] ============================================================
+2026-07-03 19:16:58 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-03 19:16:58 [DEBUG   ] Disk space OK: 891742MB free in /tmp
+2026-07-03 19:16:58 [INFO    ] No existing state file — starting fresh
+2026-07-03 19:16:58 [INFO    ] Authenticating with Google Drive...
+2026-07-03 19:16:58 [DEBUG   ] Fetching Drive page 1...
+2026-07-03 19:16:59 [DEBUG   ] Page 1: 0 files (total: 0)
+2026-07-03 19:16:59 [INFO    ] Drive listing complete: 0 files across 1 pages
+2026-07-03 19:16:59 [INFO    ] No files found in Drive folder
+2026-07-03 19:16:59 [INFO    ] PID lock released
+2026-07-03 19:16:59 [INFO    ] Pipeline finished in 1.0s: 0 ingested, 0 skipped, 0 failed, 0 deferred, 0 deleted from Drive
+2026-07-06 13:49:28 [INFO    ] ============================================================
+2026-07-06 13:49:28 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 13:49:28 [INFO    ]   Dry run: True
+2026-07-06 13:49:28 [INFO    ]   Loop mode: False
+2026-07-06 13:49:28 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 13:49:28 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 13:49:28 [INFO    ] ============================================================
+2026-07-06 13:49:28 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 13:49:28 [DEBUG   ] Disk space OK: 890392MB free in /tmp
+2026-07-06 13:49:28 [INFO    ] No existing state file — starting fresh
+2026-07-06 13:49:28 [INFO    ] Authenticating with Google Drive...
+2026-07-06 13:49:28 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 13:49:29 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 13:49:29 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 13:49:29 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1jTtFVw8oRao_GmPR_2O2OGHCnp9qQ5FS, application/pdf) ---
+2026-07-06 13:49:29 [INFO    ] Downloading: ANSI ASHRAE Standard 62.1-2022.pdf → ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 13:49:31 [DEBUG   ] Download progress: ANSI ASHRAE Standard 62.1-2022.pdf — 100%
+2026-07-06 13:49:31 [INFO    ] Downloaded: ANSI ASHRAE Standard 62.1-2022.pdf (2002365 bytes)
+2026-07-06 13:49:31 [INFO    ] PDF converted: ANSI ASHRAE Standard 62.1-2022.pdf — 268761 chars
+2026-07-06 13:49:31 [INFO    ] [DRY RUN] Would upload to Dify, then delete from Drive: ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 13:49:31 [DEBUG   ] State saved atomically: 1 processed
+2026-07-06 13:49:31 [INFO    ] --- Loop 1 done: 1 files this iteration ---
+2026-07-06 13:49:31 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 13:49:31 [INFO    ] PID lock released
+2026-07-06 13:49:31 [INFO    ] Pipeline finished in 3.0s: 1 ingested, 0 skipped, 0 failed, 0 deferred, 0 deleted from Drive
+2026-07-06 13:49:39 [INFO    ] ============================================================
+2026-07-06 13:49:39 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 13:49:39 [INFO    ]   Dry run: False
+2026-07-06 13:49:39 [INFO    ]   Loop mode: False
+2026-07-06 13:49:39 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 13:49:39 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 13:49:39 [INFO    ] ============================================================
+2026-07-06 13:49:39 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 13:49:39 [DEBUG   ] Disk space OK: 890391MB free in /tmp
+2026-07-06 13:49:39 [INFO    ] Loaded state: 1 processed, 0 failed, 0 deferred
+2026-07-06 13:49:39 [DEBUG   ] State backed up: state.json.bak.20260706_134939
+2026-07-06 13:49:39 [INFO    ] Authenticating with Google Drive...
+2026-07-06 13:49:39 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 13:49:40 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 13:49:40 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 13:49:40 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1jTtFVw8oRao_GmPR_2O2OGHCnp9qQ5FS, application/pdf) ---
+2026-07-06 13:49:40 [INFO    ] Skipping (already processed): ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 13:49:40 [INFO    ] --- Loop 1 done: 0 files this iteration ---
+2026-07-06 13:49:40 [INFO    ] PID lock released
+2026-07-06 13:49:40 [INFO    ] Pipeline finished in 0.9s: 0 ingested, 1 skipped, 0 failed, 0 deferred, 0 deleted from Drive
+2026-07-06 13:49:47 [INFO    ] ============================================================
+2026-07-06 13:49:47 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 13:49:47 [INFO    ]   Dry run: False
+2026-07-06 13:49:47 [INFO    ]   Loop mode: False
+2026-07-06 13:49:47 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 13:49:47 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 13:49:47 [INFO    ] ============================================================
+2026-07-06 13:49:47 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 13:49:47 [DEBUG   ] Disk space OK: 890391MB free in /tmp
+2026-07-06 13:49:47 [INFO    ] No existing state file — starting fresh
+2026-07-06 13:49:47 [INFO    ] Authenticating with Google Drive...
+2026-07-06 13:49:47 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 13:49:48 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 13:49:48 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 13:49:48 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1jTtFVw8oRao_GmPR_2O2OGHCnp9qQ5FS, application/pdf) ---
+2026-07-06 13:49:48 [INFO    ] Downloading: ANSI ASHRAE Standard 62.1-2022.pdf → ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 13:49:49 [DEBUG   ] Download progress: ANSI ASHRAE Standard 62.1-2022.pdf — 100%
+2026-07-06 13:49:49 [INFO    ] Downloaded: ANSI ASHRAE Standard 62.1-2022.pdf (2002365 bytes)
+2026-07-06 13:49:49 [INFO    ] PDF converted: ANSI ASHRAE Standard 62.1-2022.pdf — 268761 chars
+2026-07-06 13:49:49 [DEBUG   ] Uploading chunk 1/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p1of45 (6136 chars)
+2026-07-06 13:49:50 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:50 [DEBUG   ] Uploading chunk 2/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p2of45 (4838 chars)
+2026-07-06 13:49:50 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:50 [DEBUG   ] Uploading chunk 3/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p3of45 (4628 chars)
+2026-07-06 13:49:50 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:50 [DEBUG   ] Uploading chunk 4/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p4of45 (4047 chars)
+2026-07-06 13:49:51 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:51 [DEBUG   ] Uploading chunk 5/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p5of45 (4685 chars)
+2026-07-06 13:49:51 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:51 [DEBUG   ] Uploading chunk 6/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p6of45 (6460 chars)
+2026-07-06 13:49:51 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:51 [DEBUG   ] Uploading chunk 7/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p7of45 (4175 chars)
+2026-07-06 13:49:52 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:52 [DEBUG   ] Uploading chunk 8/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p8of45 (4387 chars)
+2026-07-06 13:49:52 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:52 [DEBUG   ] Uploading chunk 9/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p9of45 (3652 chars)
+2026-07-06 13:49:52 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:52 [DEBUG   ] Uploading chunk 10/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p10of45 (4698 chars)
+2026-07-06 13:49:53 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:53 [DEBUG   ] Uploading chunk 11/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p11of45 (4622 chars)
+2026-07-06 13:49:53 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:53 [DEBUG   ] Uploading chunk 12/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p12of45 (4139 chars)
+2026-07-06 13:49:53 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:53 [DEBUG   ] Uploading chunk 13/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p13of45 (4356 chars)
+2026-07-06 13:49:54 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:54 [DEBUG   ] Uploading chunk 14/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p14of45 (4584 chars)
+2026-07-06 13:49:54 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:54 [DEBUG   ] Uploading chunk 15/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p15of45 (7699 chars)
+2026-07-06 13:49:54 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:54 [DEBUG   ] Uploading chunk 16/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p16of45 (7842 chars)
+2026-07-06 13:49:55 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:55 [DEBUG   ] Uploading chunk 17/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p17of45 (3928 chars)
+2026-07-06 13:49:55 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:55 [DEBUG   ] Uploading chunk 18/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p18of45 (7744 chars)
+2026-07-06 13:49:56 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:56 [DEBUG   ] Uploading chunk 19/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p19of45 (6828 chars)
+2026-07-06 13:49:57 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:57 [DEBUG   ] Uploading chunk 20/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p20of45 (4970 chars)
+2026-07-06 13:49:57 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:57 [DEBUG   ] Uploading chunk 21/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p21of45 (7946 chars)
+2026-07-06 13:49:57 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:57 [DEBUG   ] Uploading chunk 22/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p22of45 (7503 chars)
+2026-07-06 13:49:58 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:58 [DEBUG   ] Uploading chunk 23/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p23of45 (7695 chars)
+2026-07-06 13:49:58 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:58 [DEBUG   ] Uploading chunk 24/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p24of45 (7269 chars)
+2026-07-06 13:49:59 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:59 [DEBUG   ] Uploading chunk 25/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p25of45 (5360 chars)
+2026-07-06 13:49:59 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:49:59 [DEBUG   ] Uploading chunk 26/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p26of45 (7697 chars)
+2026-07-06 13:50:00 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:00 [DEBUG   ] Uploading chunk 27/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p27of45 (7723 chars)
+2026-07-06 13:50:00 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:00 [DEBUG   ] Uploading chunk 28/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p28of45 (4915 chars)
+2026-07-06 13:50:00 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:00 [DEBUG   ] Uploading chunk 29/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p29of45 (7488 chars)
+2026-07-06 13:50:01 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:01 [DEBUG   ] Uploading chunk 30/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p30of45 (3853 chars)
+2026-07-06 13:50:01 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:01 [DEBUG   ] Uploading chunk 31/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p31of45 (7461 chars)
+2026-07-06 13:50:01 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:01 [DEBUG   ] Uploading chunk 32/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p32of45 (7874 chars)
+2026-07-06 13:50:02 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:02 [DEBUG   ] Uploading chunk 33/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p33of45 (7664 chars)
+2026-07-06 13:50:02 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:02 [DEBUG   ] Uploading chunk 34/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p34of45 (7012 chars)
+2026-07-06 13:50:02 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:02 [DEBUG   ] Uploading chunk 35/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p35of45 (4764 chars)
+2026-07-06 13:50:03 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:03 [DEBUG   ] Uploading chunk 36/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p36of45 (6699 chars)
+2026-07-06 13:50:03 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:03 [DEBUG   ] Uploading chunk 37/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p37of45 (5714 chars)
+2026-07-06 13:50:03 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:03 [DEBUG   ] Uploading chunk 38/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p38of45 (5910 chars)
+2026-07-06 13:50:04 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:04 [DEBUG   ] Uploading chunk 39/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p39of45 (7693 chars)
+2026-07-06 13:50:04 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:04 [DEBUG   ] Uploading chunk 40/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p40of45 (6582 chars)
+2026-07-06 13:50:04 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:04 [DEBUG   ] Uploading chunk 41/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p41of45 (4931 chars)
+2026-07-06 13:50:05 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:05 [DEBUG   ] Uploading chunk 42/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p42of45 (4840 chars)
+2026-07-06 13:50:05 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:05 [DEBUG   ] Uploading chunk 43/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p43of45 (7438 chars)
+2026-07-06 13:50:05 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:05 [DEBUG   ] Uploading chunk 44/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p44of45 (5312 chars)
+2026-07-06 13:50:06 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:06 [DEBUG   ] Uploading chunk 45/45 to Dify: ANSI ASHRAE Standard 62.1-2022-1d59e895-p45of45 (6807 chars)
+2026-07-06 13:50:07 [ERROR   ] Dify upload failed (HTTP 404): <!doctype html>
+<html lang=en>
+<title>404 Not Found</title>
+<h1>Not Found</h1>
+<p>The requested URL was not found on the server. If you entered the URL manually please check your spelling and try again.</p>
+
+2026-07-06 13:50:07 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 62.1-2022.pdf — All 45 chunks failed to upload for: ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 13:50:07 [DEBUG   ] State saved atomically: 0 processed
+2026-07-06 13:50:07 [INFO    ] --- Loop 1 done: 0 files this iteration ---
+2026-07-06 13:50:07 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 13:50:07 [INFO    ] PID lock released
+2026-07-06 13:50:07 [INFO    ] Pipeline finished in 20.1s: 0 ingested, 0 skipped, 1 failed, 0 deferred, 0 deleted from Drive
+2026-07-06 13:50:33 [INFO    ] ============================================================
+2026-07-06 13:50:33 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 13:50:33 [INFO    ]   Dry run: False
+2026-07-06 13:50:33 [INFO    ]   Loop mode: False
+2026-07-06 13:50:33 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 13:50:33 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 13:50:33 [INFO    ] ============================================================
+2026-07-06 13:50:33 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 13:50:33 [DEBUG   ] Disk space OK: 890390MB free in /tmp
+2026-07-06 13:50:33 [INFO    ] No existing state file — starting fresh
+2026-07-06 13:50:33 [INFO    ] Authenticating with Google Drive...
+2026-07-06 13:50:33 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 13:50:34 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 13:50:34 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 13:50:34 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1jTtFVw8oRao_GmPR_2O2OGHCnp9qQ5FS, application/pdf) ---
+2026-07-06 13:50:34 [INFO    ] Downloading: ANSI ASHRAE Standard 62.1-2022.pdf → ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 13:50:35 [DEBUG   ] Download progress: ANSI ASHRAE Standard 62.1-2022.pdf — 100%
+2026-07-06 13:50:35 [INFO    ] Downloaded: ANSI ASHRAE Standard 62.1-2022.pdf (2002365 bytes)
+2026-07-06 13:50:36 [INFO    ] PDF converted: ANSI ASHRAE Standard 62.1-2022.pdf — 268761 chars
+2026-07-06 13:50:36 [DEBUG   ] Uploading chunk 1/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p1of45 (6136 chars)
+2026-07-06 13:50:37 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p1of45 → 1c5ede21-8382-4a30-a332-c2555556ed5d
+2026-07-06 13:50:37 [DEBUG   ] Uploading chunk 2/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p2of45 (4838 chars)
+2026-07-06 13:50:38 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p2of45 → 4f537de8-3ec5-45b4-8c7b-109c474a2d3c
+2026-07-06 13:50:38 [DEBUG   ] Uploading chunk 3/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p3of45 (4628 chars)
+2026-07-06 13:50:39 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p3of45 → 30149405-b6a9-4fe9-8d41-48cc78d3b5ed
+2026-07-06 13:50:39 [DEBUG   ] Uploading chunk 4/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p4of45 (4047 chars)
+2026-07-06 13:50:40 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p4of45 → 3d2abd08-2361-44a6-9b98-4f4050a85a10
+2026-07-06 13:50:40 [DEBUG   ] Uploading chunk 5/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p5of45 (4685 chars)
+2026-07-06 13:50:42 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p5of45 → 92e23465-4648-4433-8a9b-898e75a828d9
+2026-07-06 13:50:42 [DEBUG   ] Uploading chunk 6/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p6of45 (6460 chars)
+2026-07-06 13:50:43 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p6of45 → dfd9766d-1b3d-472a-b322-7964fa261c48
+2026-07-06 13:50:43 [DEBUG   ] Uploading chunk 7/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p7of45 (4175 chars)
+2026-07-06 13:50:44 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p7of45 → 0edd09cd-3615-4972-8d46-e787363715aa
+2026-07-06 13:50:44 [DEBUG   ] Uploading chunk 8/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p8of45 (4387 chars)
+2026-07-06 13:50:44 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p8of45 → f2f992f6-3837-4821-806e-b30cfdec19cb
+2026-07-06 13:50:44 [DEBUG   ] Uploading chunk 9/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p9of45 (3652 chars)
+2026-07-06 13:50:45 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p9of45 → a120230d-6a17-49a1-b729-3a409ef7d06b
+2026-07-06 13:50:45 [DEBUG   ] Uploading chunk 10/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p10of45 (4698 chars)
+2026-07-06 13:50:46 [INFO    ] Dify upload OK: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p10of45 → 6b3bd994-362f-4d4a-903d-a41ed93d2461
+2026-07-06 13:50:46 [DEBUG   ] Uploading chunk 11/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p11of45 (4622 chars)
+2026-07-06 13:50:51 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:51 [DEBUG   ] Uploading chunk 12/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p12of45 (4139 chars)
+2026-07-06 13:50:51 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:51 [DEBUG   ] Uploading chunk 13/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p13of45 (4356 chars)
+2026-07-06 13:50:52 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:52 [DEBUG   ] Uploading chunk 14/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p14of45 (4584 chars)
+2026-07-06 13:50:52 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:52 [DEBUG   ] Uploading chunk 15/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p15of45 (7699 chars)
+2026-07-06 13:50:53 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:53 [DEBUG   ] Uploading chunk 16/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p16of45 (7842 chars)
+2026-07-06 13:50:53 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:53 [DEBUG   ] Uploading chunk 17/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p17of45 (3928 chars)
+2026-07-06 13:50:54 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:54 [DEBUG   ] Uploading chunk 18/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p18of45 (7744 chars)
+2026-07-06 13:50:54 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:54 [DEBUG   ] Uploading chunk 19/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p19of45 (6828 chars)
+2026-07-06 13:50:54 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:54 [DEBUG   ] Uploading chunk 20/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p20of45 (4970 chars)
+2026-07-06 13:50:55 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:55 [DEBUG   ] Uploading chunk 21/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p21of45 (7946 chars)
+2026-07-06 13:50:55 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:55 [DEBUG   ] Uploading chunk 22/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p22of45 (7503 chars)
+2026-07-06 13:50:56 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:56 [DEBUG   ] Uploading chunk 23/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p23of45 (7695 chars)
+2026-07-06 13:50:56 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:56 [DEBUG   ] Uploading chunk 24/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p24of45 (7269 chars)
+2026-07-06 13:50:57 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:57 [DEBUG   ] Uploading chunk 25/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p25of45 (5360 chars)
+2026-07-06 13:50:57 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:57 [DEBUG   ] Uploading chunk 26/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p26of45 (7697 chars)
+2026-07-06 13:50:58 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:58 [DEBUG   ] Uploading chunk 27/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p27of45 (7723 chars)
+2026-07-06 13:50:59 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:59 [DEBUG   ] Uploading chunk 28/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p28of45 (4915 chars)
+2026-07-06 13:50:59 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:50:59 [DEBUG   ] Uploading chunk 29/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p29of45 (7488 chars)
+2026-07-06 13:51:00 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:00 [DEBUG   ] Uploading chunk 30/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p30of45 (3853 chars)
+2026-07-06 13:51:00 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:00 [DEBUG   ] Uploading chunk 31/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p31of45 (7461 chars)
+2026-07-06 13:51:01 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:01 [DEBUG   ] Uploading chunk 32/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p32of45 (7874 chars)
+2026-07-06 13:51:01 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:01 [DEBUG   ] Uploading chunk 33/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p33of45 (7664 chars)
+2026-07-06 13:51:02 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:02 [DEBUG   ] Uploading chunk 34/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p34of45 (7012 chars)
+2026-07-06 13:51:02 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:02 [DEBUG   ] Uploading chunk 35/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p35of45 (4764 chars)
+2026-07-06 13:51:02 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:02 [DEBUG   ] Uploading chunk 36/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p36of45 (6699 chars)
+2026-07-06 13:51:03 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:03 [DEBUG   ] Uploading chunk 37/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p37of45 (5714 chars)
+2026-07-06 13:51:03 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:03 [DEBUG   ] Uploading chunk 38/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p38of45 (5910 chars)
+2026-07-06 13:51:04 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:04 [DEBUG   ] Uploading chunk 39/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p39of45 (7693 chars)
+2026-07-06 13:51:04 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:04 [DEBUG   ] Uploading chunk 40/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p40of45 (6582 chars)
+2026-07-06 13:51:04 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:04 [DEBUG   ] Uploading chunk 41/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p41of45 (4931 chars)
+2026-07-06 13:51:05 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:05 [DEBUG   ] Uploading chunk 42/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p42of45 (4840 chars)
+2026-07-06 13:51:05 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:05 [DEBUG   ] Uploading chunk 43/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p43of45 (7438 chars)
+2026-07-06 13:51:06 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:06 [DEBUG   ] Uploading chunk 44/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p44of45 (5312 chars)
+2026-07-06 13:51:06 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:06 [DEBUG   ] Uploading chunk 45/45 to Dify: ANSI ASHRAE Standard 62.1-2022-d8b3f48d-p45of45 (6807 chars)
+2026-07-06 13:51:07 [ERROR   ] Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 13:51:07 [WARNING ] PARTIAL UPLOAD: 10/45 chunks succeeded for ANSI ASHRAE Standard 62.1-2022.pdf — 35 chunks failed
+2026-07-06 13:51:08 [INFO    ] Deleted from Drive: ANSI ASHRAE Standard 62.1-2022.pdf (1jTtFVw8oRao_GmPR_2O2OGHCnp9qQ5FS)
+2026-07-06 13:51:08 [DEBUG   ] State saved atomically: 1 processed
+2026-07-06 13:51:08 [INFO    ] ✓ File complete: ANSI ASHRAE Standard 62.1-2022.pdf → Dify (10 docs) → Drive deleted
+2026-07-06 13:51:08 [INFO    ] --- Loop 1 done: 1 files this iteration ---
+2026-07-06 13:51:08 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 13:51:08 [INFO    ] PID lock released
+2026-07-06 13:51:08 [INFO    ] Pipeline finished in 34.5s: 1 ingested, 0 skipped, 0 failed, 0 deferred, 1 deleted from Drive
+2026-07-06 14:00:39 [INFO    ] ============================================================
+2026-07-06 14:00:39 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 14:00:39 [INFO    ]   Dry run: False
+2026-07-06 14:00:39 [INFO    ]   Loop mode: False
+2026-07-06 14:00:39 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 14:00:39 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 14:00:39 [INFO    ] ============================================================
+2026-07-06 14:00:39 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 14:00:39 [DEBUG   ] Disk space OK: 890385MB free in /tmp
+2026-07-06 14:00:39 [INFO    ] No existing state file — starting fresh
+2026-07-06 14:00:39 [INFO    ] Authenticating with Google Drive...
+2026-07-06 14:00:39 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 14:00:40 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 14:00:40 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 14:00:40 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1hZzAbLnb_a5EdXhlVC3WoEttApHyqzuu, application/pdf) ---
+2026-07-06 14:00:40 [INFO    ] Downloading: ANSI ASHRAE Standard 62.1-2022.pdf → ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 14:00:42 [DEBUG   ] Download progress: ANSI ASHRAE Standard 62.1-2022.pdf — 100%
+2026-07-06 14:00:42 [INFO    ] Downloaded: ANSI ASHRAE Standard 62.1-2022.pdf (2002365 bytes)
+2026-07-06 14:00:42 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 62.1-2022.pdf — Dify file upload failed (HTTP 401): {"code":"unauthorized","message":"Access token is invalid","status":401}
+
+2026-07-06 14:00:42 [DEBUG   ] State saved atomically: 0 processed
+2026-07-06 14:00:42 [INFO    ] --- Loop 1 done: 0 files this iteration ---
+2026-07-06 14:00:42 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 14:00:42 [INFO    ] PID lock released
+2026-07-06 14:00:42 [INFO    ] Pipeline finished in 2.9s: 0 ingested, 0 skipped, 1 failed, 0 deferred, 0 deleted from Drive
+2026-07-06 14:01:43 [INFO    ] ============================================================
+2026-07-06 14:01:43 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 14:01:43 [INFO    ]   Dry run: False
+2026-07-06 14:01:43 [INFO    ]   Loop mode: False
+2026-07-06 14:01:43 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 14:01:43 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 14:01:43 [INFO    ] ============================================================
+2026-07-06 14:01:43 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 14:01:43 [DEBUG   ] Disk space OK: 890387MB free in /tmp
+2026-07-06 14:01:43 [INFO    ] No existing state file — starting fresh
+2026-07-06 14:01:43 [INFO    ] Authenticating with Google Drive...
+2026-07-06 14:01:43 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 14:01:44 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 14:01:44 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 14:01:44 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1hZzAbLnb_a5EdXhlVC3WoEttApHyqzuu, application/pdf) ---
+2026-07-06 14:01:44 [INFO    ] Downloading: ANSI ASHRAE Standard 62.1-2022.pdf → ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 14:01:46 [DEBUG   ] Download progress: ANSI ASHRAE Standard 62.1-2022.pdf — 100%
+2026-07-06 14:01:46 [INFO    ] Downloaded: ANSI ASHRAE Standard 62.1-2022.pdf (2002365 bytes)
+2026-07-06 14:01:47 [INFO    ] File uploaded to Dify: ANSI ASHRAE Standard 62.1-2022.pdf → 7e6d6db1-6846-4557-b510-c8e13818cf28
+2026-07-06 14:01:47 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 62.1-2022.pdf — Dify document creation failed (HTTP 400): {"code":"no_file_uploaded","message":"Please upload your file.","status":400}
+
+2026-07-06 14:01:47 [DEBUG   ] State saved atomically: 0 processed
+2026-07-06 14:01:47 [INFO    ] --- Loop 1 done: 0 files this iteration ---
+2026-07-06 14:01:47 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 14:01:47 [INFO    ] PID lock released
+2026-07-06 14:01:47 [INFO    ] Pipeline finished in 4.2s: 0 ingested, 0 skipped, 1 failed, 0 deferred, 0 deleted from Drive
+2026-07-06 14:03:08 [INFO    ] ============================================================
+2026-07-06 14:03:08 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 14:03:08 [INFO    ]   Dry run: False
+2026-07-06 14:03:08 [INFO    ]   Loop mode: False
+2026-07-06 14:03:08 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 14:03:08 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 14:03:08 [INFO    ] ============================================================
+2026-07-06 14:03:08 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 14:03:08 [DEBUG   ] Disk space OK: 890385MB free in /tmp
+2026-07-06 14:03:08 [INFO    ] No existing state file — starting fresh
+2026-07-06 14:03:08 [INFO    ] Authenticating with Google Drive...
+2026-07-06 14:03:08 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 14:03:09 [DEBUG   ] Page 1: 1 files (total: 1)
+2026-07-06 14:03:09 [INFO    ] Drive listing complete: 1 files across 1 pages
+2026-07-06 14:03:09 [INFO    ] --- Processing: ANSI ASHRAE Standard 62.1-2022.pdf (1hZzAbLnb_a5EdXhlVC3WoEttApHyqzuu, application/pdf) ---
+2026-07-06 14:03:09 [INFO    ] Downloading: ANSI ASHRAE Standard 62.1-2022.pdf → ANSI ASHRAE Standard 62.1-2022.pdf
+2026-07-06 14:03:11 [DEBUG   ] Download progress: ANSI ASHRAE Standard 62.1-2022.pdf — 100%
+2026-07-06 14:03:11 [INFO    ] Downloaded: ANSI ASHRAE Standard 62.1-2022.pdf (2002365 bytes)
+2026-07-06 14:03:12 [INFO    ] Dify native ingest OK: ANSI ASHRAE Standard 62.1-2022.pdf → doc 4d75344e-17b9-4185-8b29-b665e9cb4d13
+2026-07-06 14:03:13 [INFO    ] Deleted from Drive: ANSI ASHRAE Standard 62.1-2022.pdf (1hZzAbLnb_a5EdXhlVC3WoEttApHyqzuu)
+2026-07-06 14:03:13 [DEBUG   ] State saved atomically: 1 processed
+2026-07-06 14:03:13 [INFO    ] ✓ File complete: ANSI ASHRAE Standard 62.1-2022.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 14:03:13 [INFO    ] --- Loop 1 done: 1 files this iteration ---
+2026-07-06 14:03:13 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 14:03:13 [INFO    ] PID lock released
+2026-07-06 14:03:13 [INFO    ] Pipeline finished in 5.5s: 1 ingested, 0 skipped, 0 failed, 0 deferred, 1 deleted from Drive
+2026-07-06 16:31:26 [INFO    ] ============================================================
+2026-07-06 16:31:26 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 16:31:26 [INFO    ]   Dry run: False
+2026-07-06 16:31:26 [INFO    ]   Loop mode: False
+2026-07-06 16:31:26 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 16:31:26 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 16:31:26 [INFO    ] ============================================================
+2026-07-06 16:31:26 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 16:31:26 [DEBUG   ] Disk space OK: 890355MB free in /tmp
+2026-07-06 16:31:26 [INFO    ] No existing state file — starting fresh
+2026-07-06 16:31:26 [INFO    ] Authenticating with Google Drive...
+2026-07-06 16:31:26 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 16:31:27 [DEBUG   ] Page 1: 2 files (total: 2)
+2026-07-06 16:31:27 [INFO    ] Drive listing complete: 2 files across 1 pages
+2026-07-06 16:31:27 [INFO    ] --- Processing: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub (17CFNg-xo49Ua3U3U2QF4g0Xdno32f-QR, application/epub+zip) ---
+2026-07-06 16:31:27 [INFO    ] Downloading: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub → BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub
+2026-07-06 16:31:28 [DEBUG   ] Download progress: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub — 100%
+2026-07-06 16:31:28 [INFO    ] Downloaded: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub (1040572 bytes)
+2026-07-06 16:31:29 [INFO    ] Dify native ingest OK: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub → doc a52184c7-985f-45e4-83d9-5e7cb6b5defe
+2026-07-06 16:31:30 [INFO    ] Deleted from Drive: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub (17CFNg-xo49Ua3U3U2QF4g0Xdno32f-QR)
+2026-07-06 16:31:30 [DEBUG   ] State saved atomically: 1 processed
+2026-07-06 16:31:30 [INFO    ] ✓ File complete: BSR Commissioning of Electrical Instrumentation and Control Systems in Process Industry 2012.epub → Dify (1 docs) → Drive deleted
+2026-07-06 16:31:30 [INFO    ] --- Processing: CIBSE Commissioning Code A Air Distribution Systems 1996.epub (1GsHvxVrh-kUcDqhkvNs-hkCkyWEIgzjv, application/epub+zip) ---
+2026-07-06 16:31:30 [INFO    ] Downloading: CIBSE Commissioning Code A Air Distribution Systems 1996.epub → CIBSE Commissioning Code A Air Distribution Systems 1996.epub
+2026-07-06 16:31:31 [DEBUG   ] Download progress: CIBSE Commissioning Code A Air Distribution Systems 1996.epub — 100%
+2026-07-06 16:31:31 [INFO    ] Downloaded: CIBSE Commissioning Code A Air Distribution Systems 1996.epub (389977 bytes)
+2026-07-06 16:31:32 [INFO    ] Dify native ingest OK: CIBSE Commissioning Code A Air Distribution Systems 1996.epub → doc 0df15485-de46-4419-a713-d6ce551d9962
+2026-07-06 16:31:33 [INFO    ] Deleted from Drive: CIBSE Commissioning Code A Air Distribution Systems 1996.epub (1GsHvxVrh-kUcDqhkvNs-hkCkyWEIgzjv)
+2026-07-06 16:31:33 [DEBUG   ] State saved atomically: 2 processed
+2026-07-06 16:31:33 [INFO    ] ✓ File complete: CIBSE Commissioning Code A Air Distribution Systems 1996.epub → Dify (1 docs) → Drive deleted
+2026-07-06 16:31:33 [INFO    ] --- Loop 1 done: 2 files this iteration ---
+2026-07-06 16:31:33 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 16:31:33 [INFO    ] PID lock released
+2026-07-06 16:31:33 [INFO    ] Pipeline finished in 7.4s: 2 ingested, 0 skipped, 0 failed, 0 deferred, 2 deleted from Drive
+2026-07-06 17:17:55 [INFO    ] ============================================================
+2026-07-06 17:17:55 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 17:17:55 [INFO    ]   Dry run: False
+2026-07-06 17:17:55 [INFO    ]   Loop mode: False
+2026-07-06 17:17:55 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 17:17:55 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 17:17:55 [INFO    ] ============================================================
+2026-07-06 17:17:55 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 17:17:55 [DEBUG   ] Disk space OK: 890344MB free in /tmp
+2026-07-06 17:17:55 [INFO    ] No existing state file — starting fresh
+2026-07-06 17:17:55 [INFO    ] Authenticating with Google Drive...
+2026-07-06 17:17:55 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 17:17:56 [DEBUG   ] Page 1: 20 files (total: 20)
+2026-07-06 17:17:56 [INFO    ] Drive listing complete: 20 files across 1 pages
+2026-07-06 17:17:56 [INFO    ] --- Processing: Data Center Handbook 2015 Hwaiyu Geng.pdf (1cOumFP4TPuMav-kL6eB_IgTHDMFlCDp9, application/pdf) ---
+2026-07-06 17:17:56 [INFO    ] Downloading: Data Center Handbook 2015 Hwaiyu Geng.pdf → Data Center Handbook 2015 Hwaiyu Geng.pdf
+2026-07-06 17:18:05 [DEBUG   ] Download progress: Data Center Handbook 2015 Hwaiyu Geng.pdf — 100%
+2026-07-06 17:18:05 [INFO    ] Downloaded: Data Center Handbook 2015 Hwaiyu Geng.pdf (27990115 bytes)
+2026-07-06 17:18:10 [ERROR   ] Dify upload fatal: Data Center Handbook 2015 Hwaiyu Geng.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:18:10 [DEBUG   ] State saved atomically: 0 processed
+2026-07-06 17:18:10 [INFO    ] --- Processing: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf (1H4Wb-yJ1AiS2NiWc-y7hXtlQzZ0GPCvU, application/pdf) ---
+2026-07-06 17:18:10 [INFO    ] Downloading: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf → Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf
+2026-07-06 17:18:13 [DEBUG   ] Download progress: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf — 100%
+2026-07-06 17:18:13 [INFO    ] Downloaded: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf (4636943 bytes)
+2026-07-06 17:18:15 [INFO    ] Dify native ingest OK: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf → doc 0a8c2fc7-54e3-460a-82d8-f9415e0898fc
+2026-07-06 17:18:16 [INFO    ] Deleted from Drive: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf (1H4Wb-yJ1AiS2NiWc-y7hXtlQzZ0GPCvU)
+2026-07-06 17:18:16 [DEBUG   ] State saved atomically: 1 processed
+2026-07-06 17:18:16 [INFO    ] ✓ File complete: Making Your Data Center Energy Efficient 2011 Gilbert Held.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:18:16 [INFO    ] --- Processing: Energy Storage Driving the Renewable Energy Transition 2025 Efstathios Michaelides.pdf (1fzmMvjEpnHiP5B0QKUITsKt6woFW94is, application/pdf) ---
+2026-07-06 17:18:16 [INFO    ] Downloading: Energy Storage Driving the Renewable Energy Transition 2025 Efstathios Michaelides.pdf → Energy Storage Driving the Renewable Energy Transition 2025 Efstathios Michaelides.pdf
+2026-07-06 17:18:26 [DEBUG   ] Download progress: Energy Storage Driving the Renewable Energy Transition 2025 Efstathios Michaelides.pdf — 100%
+2026-07-06 17:18:26 [INFO    ] Downloaded: Energy Storage Driving the Renewable Energy Transition 2025 Efstathios Michaelides.pdf (32403748 bytes)
+2026-07-06 17:18:31 [ERROR   ] Dify upload fatal: Energy Storage Driving the Renewable Energy Transition 2025 Efstathios Michaelides.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:18:31 [DEBUG   ] State saved atomically: 1 processed
+2026-07-06 17:18:31 [INFO    ] --- Processing: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub (1AIQ7feRpVsnefDZL6rqFVN7lp-05cCxq, application/epub+zip) ---
+2026-07-06 17:18:31 [INFO    ] Downloading: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub → Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub
+2026-07-06 17:18:33 [DEBUG   ] Download progress: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub — 100%
+2026-07-06 17:18:33 [INFO    ] Downloaded: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub (2109550 bytes)
+2026-07-06 17:18:35 [INFO    ] Dify native ingest OK: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub → doc de7c32e5-0ae1-4c7d-a742-c2d4dca2de36
+2026-07-06 17:18:36 [INFO    ] Deleted from Drive: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub (1AIQ7feRpVsnefDZL6rqFVN7lp-05cCxq)
+2026-07-06 17:18:36 [DEBUG   ] State saved atomically: 2 processed
+2026-07-06 17:18:36 [INFO    ] ✓ File complete: Building a Modern Data Center Principles and Strategies of Design 2016 Scott Lowe.epub → Dify (1 docs) → Drive deleted
+2026-07-06 17:18:36 [INFO    ] --- Processing: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf (1dOvbNjBk_8NAMQIDFsh9BMch6LNT3n1I, application/pdf) ---
+2026-07-06 17:18:36 [INFO    ] Downloading: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf → HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf
+2026-07-06 17:18:39 [DEBUG   ] Download progress: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf — 100%
+2026-07-06 17:18:39 [INFO    ] Downloaded: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf (7596463 bytes)
+2026-07-06 17:18:41 [INFO    ] Dify native ingest OK: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf → doc c1afb230-2903-445b-8111-2463752167a0
+2026-07-06 17:18:42 [INFO    ] Deleted from Drive: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf (1dOvbNjBk_8NAMQIDFsh9BMch6LNT3n1I)
+2026-07-06 17:18:42 [DEBUG   ] State saved atomically: 3 processed
+2026-07-06 17:18:42 [INFO    ] ✓ File complete: HVAC 101 A Beginners Essential Guide to Heating Ventilation and Air Conditioning 2024 Norman Althoff.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:18:42 [INFO    ] --- Processing: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf (1Ptcc8oOMOejFPBM_3vW2MYlECKefNZQi, application/pdf) ---
+2026-07-06 17:18:42 [INFO    ] Downloading: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf → Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf
+2026-07-06 17:18:45 [DEBUG   ] Download progress: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf — 100%
+2026-07-06 17:18:45 [INFO    ] Downloaded: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf (5422701 bytes)
+2026-07-06 17:18:47 [INFO    ] Dify native ingest OK: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf → doc 52ea37ca-2149-48f1-b7de-be6a848373f2
+2026-07-06 17:18:49 [INFO    ] Deleted from Drive: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf (1Ptcc8oOMOejFPBM_3vW2MYlECKefNZQi)
+2026-07-06 17:18:49 [DEBUG   ] State saved atomically: 4 processed
+2026-07-06 17:18:49 [INFO    ] ✓ File complete: Artificial Intelligence for Energy Management 2026 Senthil Kumar etc.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:18:49 [INFO    ] --- Processing: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf (1x0GJsfRyJRo6sSX_taOPMtx-LABQ6YtE, application/pdf) ---
+2026-07-06 17:18:49 [INFO    ] Downloading: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf → Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf
+2026-07-06 17:18:51 [DEBUG   ] Download progress: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf — 100%
+2026-07-06 17:18:51 [INFO    ] Downloaded: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf (4255848 bytes)
+2026-07-06 17:18:53 [INFO    ] Dify native ingest OK: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf → doc b71051cf-5eef-49c3-86a8-8a39410b873d
+2026-07-06 17:18:54 [INFO    ] Deleted from Drive: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf (1x0GJsfRyJRo6sSX_taOPMtx-LABQ6YtE)
+2026-07-06 17:18:54 [DEBUG   ] State saved atomically: 5 processed
+2026-07-06 17:18:54 [INFO    ] ✓ File complete: Artificial Intelligence for Urban Planning 2020 Thomas Sanchez.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:18:54 [INFO    ] --- Processing: Fault Detection and State Estimation in Automatic Control 2024 Sheng Du etc.pdf (1udsWEQdFqkkMEPYSYk8jgYlKHBe2lJy0, application/pdf) ---
+2026-07-06 17:18:54 [INFO    ] Downloading: Fault Detection and State Estimation in Automatic Control 2024 Sheng Du etc.pdf → Fault Detection and State Estimation in Automatic Control 2024 Sheng Du etc.pdf
+2026-07-06 17:19:00 [DEBUG   ] Download progress: Fault Detection and State Estimation in Automatic Control 2024 Sheng Du etc.pdf — 100%
+2026-07-06 17:19:00 [INFO    ] Downloaded: Fault Detection and State Estimation in Automatic Control 2024 Sheng Du etc.pdf (24278849 bytes)
+2026-07-06 17:19:03 [ERROR   ] Dify upload fatal: Fault Detection and State Estimation in Automatic Control 2024 Sheng Du etc.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:19:03 [DEBUG   ] State saved atomically: 5 processed
+2026-07-06 17:19:03 [INFO    ] --- Processing: Ventilation and Indoor Air Quality 2023 Ashok Kumar etc.pdf (1hucqflU2kmrUsyxLWLWEyPiLQqow79TS, application/pdf) ---
+2026-07-06 17:19:03 [INFO    ] Downloading: Ventilation and Indoor Air Quality 2023 Ashok Kumar etc.pdf → Ventilation and Indoor Air Quality 2023 Ashok Kumar etc.pdf
+2026-07-06 17:19:24 [DEBUG   ] Download progress: Ventilation and Indoor Air Quality 2023 Ashok Kumar etc.pdf — 100%
+2026-07-06 17:19:24 [INFO    ] Downloaded: Ventilation and Indoor Air Quality 2023 Ashok Kumar etc.pdf (70608582 bytes)
+2026-07-06 17:19:34 [ERROR   ] Dify upload fatal: Ventilation and Indoor Air Quality 2023 Ashok Kumar etc.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:19:34 [DEBUG   ] State saved atomically: 5 processed
+2026-07-06 17:19:34 [INFO    ] --- Processing: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf (1nhSowgiM5oo0Kw_rTyI9B7L8xVEgV7kl, application/pdf) ---
+2026-07-06 17:19:34 [INFO    ] Downloading: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf → Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf
+2026-07-06 17:19:38 [DEBUG   ] Download progress: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf — 100%
+2026-07-06 17:19:38 [INFO    ] Downloaded: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf (4053404 bytes)
+2026-07-06 17:19:40 [INFO    ] Dify native ingest OK: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf → doc da724869-7df8-4113-a398-4f8272b0c200
+2026-07-06 17:19:41 [INFO    ] Deleted from Drive: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf (1nhSowgiM5oo0Kw_rTyI9B7L8xVEgV7kl)
+2026-07-06 17:19:41 [DEBUG   ] State saved atomically: 6 processed
+2026-07-06 17:19:41 [INFO    ] ✓ File complete: Airflow and Indoor Air Quality Models of DOE Reference Commercial Buildings 2012 Lisa Ng etc.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:19:41 [INFO    ] --- Processing: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf (19WamdHx18qCrhLcftFZoPdxu9j0bQp4F, application/pdf) ---
+2026-07-06 17:19:41 [INFO    ] Downloading: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf → Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf
+2026-07-06 17:19:43 [DEBUG   ] Download progress: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf — 100%
+2026-07-06 17:19:43 [INFO    ] Downloaded: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf (1387343 bytes)
+2026-07-06 17:19:44 [INFO    ] Dify native ingest OK: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf → doc 8ef8e3b1-d93c-4190-b35f-d2cc31a40ffa
+2026-07-06 17:19:45 [INFO    ] Deleted from Drive: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf (19WamdHx18qCrhLcftFZoPdxu9j0bQp4F)
+2026-07-06 17:19:45 [DEBUG   ] State saved atomically: 7 processed
+2026-07-06 17:19:45 [INFO    ] ✓ File complete: Indoor Environmental Input Parameters for Design and Assessment Addressing IAQ 2008 BSI.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:19:45 [INFO    ] --- Processing: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf (11K50Zptf6E6P0UXCsRqEN1VF3Fd7J0Cp, application/pdf) ---
+2026-07-06 17:19:45 [INFO    ] Downloading: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf → Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf
+2026-07-06 17:19:51 [DEBUG   ] Download progress: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf — 100%
+2026-07-06 17:19:51 [INFO    ] Downloaded: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf (9622486 bytes)
+2026-07-06 17:19:54 [INFO    ] Dify native ingest OK: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf → doc 14257a44-0fe7-46e2-9c77-2fe80525a2d8
+2026-07-06 17:19:55 [INFO    ] Deleted from Drive: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf (11K50Zptf6E6P0UXCsRqEN1VF3Fd7J0Cp)
+2026-07-06 17:19:55 [DEBUG   ] State saved atomically: 8 processed
+2026-07-06 17:19:55 [INFO    ] ✓ File complete: Principles of HVAC with Worked Examples 2015 Nihal Wijeysundera.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:19:55 [INFO    ] --- Processing: HVAC Handbook for Design and Implementation 2007 Ali Vedavarz etc.pdf (1ChDFqlozLuWztZEwT_FGffCczji8my2K, application/pdf) ---
+2026-07-06 17:19:55 [INFO    ] Downloading: HVAC Handbook for Design and Implementation 2007 Ali Vedavarz etc.pdf → HVAC Handbook for Design and Implementation 2007 Ali Vedavarz etc.pdf
+2026-07-06 17:20:02 [DEBUG   ] Download progress: HVAC Handbook for Design and Implementation 2007 Ali Vedavarz etc.pdf — 100%
+2026-07-06 17:20:02 [INFO    ] Downloaded: HVAC Handbook for Design and Implementation 2007 Ali Vedavarz etc.pdf (17714671 bytes)
+2026-07-06 17:20:06 [ERROR   ] Dify upload fatal: HVAC Handbook for Design and Implementation 2007 Ali Vedavarz etc.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:20:06 [DEBUG   ] State saved atomically: 8 processed
+2026-07-06 17:20:06 [INFO    ] --- Processing: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf (1jW4bJ7wUbXwlN2s7LzorWHPEesLEH4xv, application/pdf) ---
+2026-07-06 17:20:06 [INFO    ] Downloading: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf → Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf
+2026-07-06 17:20:08 [DEBUG   ] Download progress: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf — 100%
+2026-07-06 17:20:08 [INFO    ] Downloaded: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf (1597673 bytes)
+2026-07-06 17:20:08 [INFO    ] Dify native ingest OK: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf → doc 1c785ec1-0dd1-43ca-bcb6-4d239238d515
+2026-07-06 17:20:10 [INFO    ] Deleted from Drive: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf (1jW4bJ7wUbXwlN2s7LzorWHPEesLEH4xv)
+2026-07-06 17:20:10 [DEBUG   ] State saved atomically: 9 processed
+2026-07-06 17:20:10 [INFO    ] ✓ File complete: Ventilation and Airflow in Buildings Methods for Diagnosis and Evaluation 2008 Claude-Alain Roulet.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:20:10 [INFO    ] --- Processing: Industrial Ventilation Design Guidebook 2001 Esko Tahti etc.pdf (1svDdMU10NZD2x_ntFFgFLFV8KlGiv4RO, application/pdf) ---
+2026-07-06 17:20:10 [INFO    ] Downloading: Industrial Ventilation Design Guidebook 2001 Esko Tahti etc.pdf → Industrial Ventilation Design Guidebook 2001 Esko Tahti etc.pdf
+2026-07-06 17:20:37 [DEBUG   ] Download progress: Industrial Ventilation Design Guidebook 2001 Esko Tahti etc.pdf — 100%
+2026-07-06 17:20:37 [INFO    ] Downloaded: Industrial Ventilation Design Guidebook 2001 Esko Tahti etc.pdf (73719675 bytes)
+2026-07-06 17:20:45 [ERROR   ] Dify upload fatal: Industrial Ventilation Design Guidebook 2001 Esko Tahti etc.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:20:45 [DEBUG   ] State saved atomically: 9 processed
+2026-07-06 17:20:46 [INFO    ] --- Processing: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf (15xtta5HKR05qPR0UtHZv5OKdRRCjxyvW, application/pdf) ---
+2026-07-06 17:20:46 [INFO    ] Downloading: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf → Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf
+2026-07-06 17:20:48 [DEBUG   ] Download progress: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf — 100%
+2026-07-06 17:20:48 [INFO    ] Downloaded: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf (4788813 bytes)
+2026-07-06 17:20:50 [INFO    ] Dify native ingest OK: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf → doc c35f3c10-cde2-4cc5-ab20-a215e626b038
+2026-07-06 17:20:51 [INFO    ] Deleted from Drive: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf (15xtta5HKR05qPR0UtHZv5OKdRRCjxyvW)
+2026-07-06 17:20:51 [DEBUG   ] State saved atomically: 10 processed
+2026-07-06 17:20:51 [INFO    ] ✓ File complete: Compact Clinical Guide to Mechanical Ventilation... 2013 Sandra Goldsworthy.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:20:51 [INFO    ] --- Processing: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub (1ZQfHXKRCftWRhFWBss_grH98YsvnMlst, application/epub+zip) ---
+2026-07-06 17:20:51 [INFO    ] Downloading: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub → DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub
+2026-07-06 17:20:55 [DEBUG   ] Download progress: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub — 100%
+2026-07-06 17:20:55 [INFO    ] Downloaded: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub (5284618 bytes)
+2026-07-06 17:20:57 [INFO    ] Dify native ingest OK: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub → doc 67533fa5-80c6-4819-9399-da9ae76d551b
+2026-07-06 17:20:58 [INFO    ] Deleted from Drive: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub (1ZQfHXKRCftWRhFWBss_grH98YsvnMlst)
+2026-07-06 17:20:58 [DEBUG   ] State saved atomically: 11 processed
+2026-07-06 17:20:58 [INFO    ] ✓ File complete: DIY Greenhouse How to Build a Walk-In Ventilated Greenhouse 2013 Taylor Birch.epub → Dify (1 docs) → Drive deleted
+2026-07-06 17:20:58 [INFO    ] --- Processing: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub (1_kPFwD8lhifhMRp7B7YWeukVK6h_3Szn, application/epub+zip) ---
+2026-07-06 17:20:58 [INFO    ] Downloading: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub → Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub
+2026-07-06 17:20:58 [DEBUG   ] Download progress: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub — 100%
+2026-07-06 17:20:58 [INFO    ] Downloaded: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub (120680 bytes)
+2026-07-06 17:20:59 [INFO    ] Dify native ingest OK: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub → doc 174560ea-8cbd-47c7-89ac-3c55b9da3de3
+2026-07-06 17:21:00 [INFO    ] Deleted from Drive: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub (1_kPFwD8lhifhMRp7B7YWeukVK6h_3Szn)
+2026-07-06 17:21:00 [DEBUG   ] State saved atomically: 12 processed
+2026-07-06 17:21:00 [INFO    ] ✓ File complete: Mechanical Ventilation Practice Questions 35 Questions Answers and Rationales 2019 Johnny Lung.epub → Dify (1 docs) → Drive deleted
+2026-07-06 17:21:00 [INFO    ] --- Processing: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf (1RoGVpCrZrpQsX_RpRVwgwpj5Y-kIsWk8, application/pdf) ---
+2026-07-06 17:21:00 [INFO    ] Downloading: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf → Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf
+2026-07-06 17:21:02 [DEBUG   ] Download progress: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf — 100%
+2026-07-06 17:21:02 [INFO    ] Downloaded: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf (12324048 bytes)
+2026-07-06 17:21:10 [INFO    ] Dify native ingest OK: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf → doc 8a663afa-ad51-4a3a-96ff-8421608650b1
+2026-07-06 17:21:10 [INFO    ] Deleted from Drive: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf (1RoGVpCrZrpQsX_RpRVwgwpj5Y-kIsWk8)
+2026-07-06 17:21:10 [DEBUG   ] State saved atomically: 13 processed
+2026-07-06 17:21:10 [INFO    ] ✓ File complete: Indoor air quality the latest sampling and analytical methods 2019 Hess-Kosa Kathleen.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:21:10 [INFO    ] --- Processing: Residential ventilation handbook ventilation to improve indoor air quality 2010 Raymer etc.pdf (1BL-j5la7-I7Gpz2iOuVPLN0o2hn_DaVm, application/pdf) ---
+2026-07-06 17:21:10 [INFO    ] Downloading: Residential ventilation handbook ventilation to improve indoor air quality 2010 Raymer etc.pdf → Residential ventilation handbook ventilation to improve indoor air quality 2010 Raymer etc.pdf
+2026-07-06 17:21:15 [DEBUG   ] Download progress: Residential ventilation handbook ventilation to improve indoor air quality 2010 Raymer etc.pdf — 100%
+2026-07-06 17:21:15 [INFO    ] Downloaded: Residential ventilation handbook ventilation to improve indoor air quality 2010 Raymer etc.pdf (20770653 bytes)
+2026-07-06 17:21:18 [ERROR   ] Dify upload fatal: Residential ventilation handbook ventilation to improve indoor air quality 2010 Raymer etc.pdf — Dify upload failed (HTTP 400): {"code":"invalid_param","message":"","status":400}
+
+2026-07-06 17:21:18 [DEBUG   ] State saved atomically: 13 processed
+2026-07-06 17:21:18 [INFO    ] --- Loop 1 done: 13 files this iteration ---
+2026-07-06 17:21:18 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 17:21:18 [INFO    ] PID lock released
+2026-07-06 17:21:18 [INFO    ] Pipeline finished in 203.4s: 13 ingested, 0 skipped, 7 failed, 0 deferred, 13 deleted from Drive
+2026-07-06 17:54:13 [INFO    ] ============================================================
+2026-07-06 17:54:13 [INFO    ] Drive → Dify Pipeline — Starting
+2026-07-06 17:54:13 [INFO    ]   Dry run: False
+2026-07-06 17:54:13 [INFO    ]   Loop mode: False
+2026-07-06 17:54:13 [INFO    ]   Dify dataset: 51610c8d-79c7-41fb-bb7e-1af3b120a850
+2026-07-06 17:54:13 [INFO    ]   Drive folder: 1GlOjKMZWmSIa6ejf1InUwYybT7ZuE102
+2026-07-06 17:54:13 [INFO    ] ============================================================
+2026-07-06 17:54:13 [INFO    ] PID lock acquired: /tmp/drive-dify-pipeline.lock
+2026-07-06 17:54:13 [DEBUG   ] Disk space OK: 890333MB free in /tmp
+2026-07-06 17:54:13 [INFO    ] Loaded state: 13 processed, 0 failed, 0 deferred
+2026-07-06 17:54:13 [DEBUG   ] State backed up: state.json.bak.20260706_175413
+2026-07-06 17:54:13 [INFO    ] Authenticating with Google Drive...
+2026-07-06 17:54:13 [DEBUG   ] Fetching Drive page 1...
+2026-07-06 17:54:14 [DEBUG   ] Page 1: 50 files (total: 50)
+2026-07-06 17:54:14 [INFO    ] Drive listing complete: 50 files across 1 pages
+2026-07-06 17:54:14 [INFO    ] --- Processing: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf (1uBbsxd28tnC8YHzgmN6t9S_fUh0oSPij, application/pdf) ---
+2026-07-06 17:54:14 [INFO    ] Downloading: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf → FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf
+2026-07-06 17:54:17 [DEBUG   ] Download progress: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf — 100%
+2026-07-06 17:54:17 [INFO    ] Downloaded: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf (5593456 bytes)
+2026-07-06 17:54:19 [INFO    ] Dify native ingest OK: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf → doc e96ba3d9-8409-4e58-9b75-4abb68ad7a7d
+2026-07-06 17:54:20 [INFO    ] Deleted from Drive: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf (1uBbsxd28tnC8YHzgmN6t9S_fUh0oSPij)
+2026-07-06 17:54:20 [DEBUG   ] State saved atomically: 14 processed
+2026-07-06 17:54:20 [INFO    ] ✓ File complete: FEMP-Achieving Energy Efficient Data Centers with New ASHRAE Thermal Guidelines.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:20 [INFO    ] --- Processing: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf (105Z2WgfnPjjexcjMbzd6b-Tt3nikj8Fa, application/pdf) ---
+2026-07-06 17:54:20 [INFO    ] Downloading: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf → ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf
+2026-07-06 17:54:22 [DEBUG   ] Download progress: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf — 100%
+2026-07-06 17:54:22 [INFO    ] Downloaded: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf (4497040 bytes)
+2026-07-06 17:54:25 [INFO    ] Dify native ingest OK: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf → doc 5bd3e0e4-726a-4ce7-ac86-2288da75b2c0
+2026-07-06 17:54:26 [INFO    ] Deleted from Drive: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf (105Z2WgfnPjjexcjMbzd6b-Tt3nikj8Fa)
+2026-07-06 17:54:26 [DEBUG   ] State saved atomically: 15 processed
+2026-07-06 17:54:26 [INFO    ] ✓ File complete: ASHRAE Structural and Vibration Guidelines for Datacom Equipment Centers 2008.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:26 [INFO    ] --- Processing: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf (1l8vR6zbXBoIOpS7AAqNcBZe3MpxXWr05, application/pdf) ---
+2026-07-06 17:54:26 [INFO    ] Downloading: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf → ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf
+2026-07-06 17:54:28 [DEBUG   ] Download progress: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf — 100%
+2026-07-06 17:54:28 [INFO    ] Downloaded: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf (10010581 bytes)
+2026-07-06 17:54:32 [INFO    ] Dify native ingest OK: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf → doc 589c5e28-c056-4fe4-ba59-54d720fd7889
+2026-07-06 17:54:33 [INFO    ] Deleted from Drive: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf (1l8vR6zbXBoIOpS7AAqNcBZe3MpxXWr05)
+2026-07-06 17:54:33 [DEBUG   ] State saved atomically: 16 processed
+2026-07-06 17:54:33 [INFO    ] ✓ File complete: ASHRAE Liquid cooling guidelines for datacom equipment centers 2ndEd 2014.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:33 [INFO    ] --- Processing: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf (1Y5_hZI5ObcSvIRpqsd9iRIYp4UxjQtNb, application/pdf) ---
+2026-07-06 17:54:33 [INFO    ] Downloading: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf → ASHRAE Real-time energy consumption measurements in data centers 2019.pdf
+2026-07-06 17:54:35 [DEBUG   ] Download progress: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf — 100%
+2026-07-06 17:54:35 [INFO    ] Downloaded: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf (7990909 bytes)
+2026-07-06 17:54:38 [INFO    ] Dify native ingest OK: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf → doc f4ee3d0b-6c22-49a4-9ed0-18213dfb7ca5
+2026-07-06 17:54:39 [INFO    ] Deleted from Drive: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf (1Y5_hZI5ObcSvIRpqsd9iRIYp4UxjQtNb)
+2026-07-06 17:54:39 [DEBUG   ] State saved atomically: 17 processed
+2026-07-06 17:54:39 [INFO    ] ✓ File complete: ASHRAE Real-time energy consumption measurements in data centers 2019.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:39 [INFO    ] --- Processing: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf (12YjNEstE93nvhp2ZFI3Cp8dYikHtYBtU, application/pdf) ---
+2026-07-06 17:54:39 [INFO    ] Downloading: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf → BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf
+2026-07-06 17:54:41 [DEBUG   ] Download progress: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf — 100%
+2026-07-06 17:54:41 [INFO    ] Downloaded: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf (4133819 bytes)
+2026-07-06 17:54:43 [INFO    ] Dify native ingest OK: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf → doc 70c28a39-d97b-453f-9150-46e8442c5552
+2026-07-06 17:54:43 [INFO    ] Deleted from Drive: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf (12YjNEstE93nvhp2ZFI3Cp8dYikHtYBtU)
+2026-07-06 17:54:43 [DEBUG   ] State saved atomically: 18 processed
+2026-07-06 17:54:43 [INFO    ] ✓ File complete: BSI Information Technology Data Centre Facilities and Infrastructures General Concepts 2018.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:43 [INFO    ] --- Processing: ASHRAE_TC0909_Storage_White_Paper_2015.pdf (1mv9eiaORP0GJzovadG_7OkyZqrUcKBtw, application/pdf) ---
+2026-07-06 17:54:43 [INFO    ] Downloading: ASHRAE_TC0909_Storage_White_Paper_2015.pdf → ASHRAE_TC0909_Storage_White_Paper_2015.pdf
+2026-07-06 17:54:47 [DEBUG   ] Download progress: ASHRAE_TC0909_Storage_White_Paper_2015.pdf — 100%
+2026-07-06 17:54:47 [INFO    ] Downloaded: ASHRAE_TC0909_Storage_White_Paper_2015.pdf (2990997 bytes)
+2026-07-06 17:54:48 [INFO    ] Dify native ingest OK: ASHRAE_TC0909_Storage_White_Paper_2015.pdf → doc 10e8ed20-f6dc-4131-9021-fb6897d55c2d
+2026-07-06 17:54:49 [INFO    ] Deleted from Drive: ASHRAE_TC0909_Storage_White_Paper_2015.pdf (1mv9eiaORP0GJzovadG_7OkyZqrUcKBtw)
+2026-07-06 17:54:49 [DEBUG   ] State saved atomically: 19 processed
+2026-07-06 17:54:49 [INFO    ] ✓ File complete: ASHRAE_TC0909_Storage_White_Paper_2015.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:49 [INFO    ] --- Processing: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf (1ap5L0TPpXDL6zNUOhozcf7qKXnv-bFjY, application/pdf) ---
+2026-07-06 17:54:49 [INFO    ] Downloading: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf → ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf
+2026-07-06 17:54:51 [DEBUG   ] Download progress: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf — 100%
+2026-07-06 17:54:51 [INFO    ] Downloaded: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf (2634461 bytes)
+2026-07-06 17:54:53 [INFO    ] Dify native ingest OK: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf → doc fc48510c-f6c9-486a-8068-5dde7b763d87
+2026-07-06 17:54:54 [INFO    ] Deleted from Drive: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf (1ap5L0TPpXDL6zNUOhozcf7qKXnv-bFjY)
+2026-07-06 17:54:54 [DEBUG   ] State saved atomically: 20 processed
+2026-07-06 17:54:54 [INFO    ] ✓ File complete: ASHRAE_TC0909_Hard_Disk_Drive_Performance_Degradation_Susceptibility_to_Acoustics_9_September_2019.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:54 [INFO    ] --- Processing: ASHRAE_TC0909_Networking Thermal Guidelines.pdf (1fzqlP42t3yH6tk1PLi7AJdd8MiMNHxoC, application/pdf) ---
+2026-07-06 17:54:54 [INFO    ] Downloading: ASHRAE_TC0909_Networking Thermal Guidelines.pdf → ASHRAE_TC0909_Networking Thermal Guidelines.pdf
+2026-07-06 17:54:56 [DEBUG   ] Download progress: ASHRAE_TC0909_Networking Thermal Guidelines.pdf — 100%
+2026-07-06 17:54:56 [INFO    ] Downloaded: ASHRAE_TC0909_Networking Thermal Guidelines.pdf (1675322 bytes)
+2026-07-06 17:54:57 [INFO    ] Dify native ingest OK: ASHRAE_TC0909_Networking Thermal Guidelines.pdf → doc 762edd27-a9d5-4252-8361-780c89a17d88
+2026-07-06 17:54:58 [INFO    ] Deleted from Drive: ASHRAE_TC0909_Networking Thermal Guidelines.pdf (1fzqlP42t3yH6tk1PLi7AJdd8MiMNHxoC)
+2026-07-06 17:54:58 [DEBUG   ] State saved atomically: 21 processed
+2026-07-06 17:54:58 [INFO    ] ✓ File complete: ASHRAE_TC0909_Networking Thermal Guidelines.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:54:58 [INFO    ] --- Processing: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf (1-CiDotRibajjjS0Br_0L6VN_WRfLq5F2, application/pdf) ---
+2026-07-06 17:54:58 [INFO    ] Downloading: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf → ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf
+2026-07-06 17:55:00 [DEBUG   ] Download progress: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf — 100%
+2026-07-06 17:55:00 [INFO    ] Downloaded: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf (2212074 bytes)
+2026-07-06 17:55:02 [INFO    ] Dify native ingest OK: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf → doc a5ee7645-3679-40ed-a9f7-06c913de9dd3
+2026-07-06 17:55:03 [INFO    ] Deleted from Drive: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf (1-CiDotRibajjjS0Br_0L6VN_WRfLq5F2)
+2026-07-06 17:55:03 [DEBUG   ] State saved atomically: 22 processed
+2026-07-06 17:55:03 [INFO    ] ✓ File complete: ASHRAE_TC0909_Power_White_Paper_22_June_2016_REVISED.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:55:03 [INFO    ] --- Processing: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf (1LZuWEDwOoIBP5fHY8TR_01oWHcJn8L_p, application/pdf) ---
+2026-07-06 17:55:03 [INFO    ] Downloading: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf → ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf
+2026-07-06 17:55:04 [DEBUG   ] Download progress: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf — 100%
+2026-07-06 17:55:04 [INFO    ] Downloaded: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf (281621 bytes)
+2026-07-06 17:55:06 [INFO    ] Dify native ingest OK: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf → doc 26e61afb-ed75-44fe-83a4-cbeacc602cbe
+2026-07-06 17:55:06 [INFO    ] Deleted from Drive: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf (1LZuWEDwOoIBP5fHY8TR_01oWHcJn8L_p)
+2026-07-06 17:55:06 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:06 [INFO    ] ✓ File complete: ASHRAE_TC0909_Liquid_Cooling_White_Paper_Brief_2_April_2019.pdf → Dify (1 docs) → Drive deleted
+2026-07-06 17:55:06 [INFO    ] --- Processing: ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf (13wsPp4hFatFvZ1aP6L7jLheLeZvhi9oX, application/pdf) ---
+2026-07-06 17:55:06 [INFO    ] Downloading: ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf → ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf
+2026-07-06 17:55:08 [DEBUG   ] Download progress: ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf — 100%
+2026-07-06 17:55:08 [INFO    ] Downloaded: ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf (3017141 bytes)
+2026-07-06 17:55:09 [ERROR   ] Dify upload fatal: ASHRAE_TC0909_Water_Cooled_Servers_15_Oct_2019.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:09 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:09 [INFO    ] --- Processing: ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf (1lz9msoPsaP__AUWNm9AgjwArU2A3SzWr, application/pdf) ---
+2026-07-06 17:55:09 [INFO    ] Downloading: ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf → ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf
+2026-07-06 17:55:11 [DEBUG   ] Download progress: ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf — 100%
+2026-07-06 17:55:11 [INFO    ] Downloaded: ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf (1042420 bytes)
+2026-07-06 17:55:11 [ERROR   ] Dify upload fatal: ASHRAE_TC0909_Emergence_and_Expansion_of_Liquid_Cooling_in_Mainstream_Data%20Centers_5_May_2021.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:11 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:11 [INFO    ] --- Processing: ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf (1FLPhwCWWfsjToQePiY26de5uBeNZ5htx, application/pdf) ---
+2026-07-06 17:55:11 [INFO    ] Downloading: ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf → ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf
+2026-07-06 17:55:12 [DEBUG   ] Download progress: ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf — 100%
+2026-07-06 17:55:12 [INFO    ] Downloaded: ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf (88363 bytes)
+2026-07-06 17:55:13 [ERROR   ] Dify upload fatal: ASHRAE_TC0909 Data Center Cooling Resiliency Brief 1.0.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:13 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:13 [INFO    ] --- Processing: ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf (1ELcxa-Cm7knafdBL3eADNqnM9dsBSvMH, application/pdf) ---
+2026-07-06 17:55:13 [INFO    ] Downloading: ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf → ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf
+2026-07-06 17:55:14 [DEBUG   ] Download progress: ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf — 100%
+2026-07-06 17:55:14 [INFO    ] Downloaded: ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf (67504 bytes)
+2026-07-06 17:55:14 [ERROR   ] Dify upload fatal: ASHRAE_TC0909_Technical_Bulletin_Liquid_Cooling_Resiliency_Guidance_September_2024.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:14 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:14 [INFO    ] --- Processing: ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf (1RiZu7QBGv8OxxWSjf7JB9jvRhk3A7E53, application/pdf) ---
+2026-07-06 17:55:14 [INFO    ] Downloading: ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf → ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf
+2026-07-06 17:55:15 [DEBUG   ] Download progress: ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf — 100%
+2026-07-06 17:55:15 [INFO    ] Downloaded: ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf (126829 bytes)
+2026-07-06 17:55:15 [ERROR   ] Dify upload fatal: ASHRAE_TC0909_TCS Coolant Integrity and System Readiness Best Practices - FINAL.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:15 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:15 [INFO    ] --- Processing: ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf (1OaNONat9qg9TJEo7Vb9G3LZE4UraCEj9, application/pdf) ---
+2026-07-06 17:55:15 [INFO    ] Downloading: ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf → ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf
+2026-07-06 17:55:17 [DEBUG   ] Download progress: ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf — 100%
+2026-07-06 17:55:17 [INFO    ] Downloaded: ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf (407743 bytes)
+2026-07-06 17:55:18 [ERROR   ] Dify upload fatal: ASHRAE_TC0909_Tech Snapshot - AI Indirect - Direct impact on Data Center Infrastructure Planning - FINAL.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:18 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:18 [INFO    ] --- Processing: ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf (15zgP4oYKY70hYMV3pyHaMyhED6qh41Zl, application/pdf) ---
+2026-07-06 17:55:18 [INFO    ] Downloading: ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf → ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf
+2026-07-06 17:55:20 [DEBUG   ] Download progress: ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf — 100%
+2026-07-06 17:55:20 [INFO    ] Downloaded: ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf (6197772 bytes)
+2026-07-06 17:55:21 [ERROR   ] Dify upload fatal: ASHRAE Best Practices for Datacom Facility Energy Efficiency 2009.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:21 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:21 [INFO    ] --- Processing: BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf (11Jn4Mw-8UWFZ8JS9yoZwSmJXi0l7-bQh, application/pdf) ---
+2026-07-06 17:55:21 [INFO    ] Downloading: BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf → BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf
+2026-07-06 17:55:22 [DEBUG   ] Download progress: BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf — 100%
+2026-07-06 17:55:22 [INFO    ] Downloaded: BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf (1278335 bytes)
+2026-07-06 17:55:23 [ERROR   ] Dify upload fatal: BSI Information Technology Data Centre Facilities Infrastructures Building Construction 2014 British Standards Institute.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:23 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:23 [INFO    ] --- Processing: ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf (1iO5GEIFXwZO888iZsF9iQQGEe4hFwcT1, application/pdf) ---
+2026-07-06 17:55:23 [INFO    ] Downloading: ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf → ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf
+2026-07-06 17:55:26 [DEBUG   ] Download progress: ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf — 100%
+2026-07-06 17:55:26 [INFO    ] Downloaded: ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf (5765157 bytes)
+2026-07-06 17:55:26 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 111-2024 Measurement Testing Adjusting and Balancing of Building HVAC Systems.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:26 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:26 [INFO    ] --- Processing: ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf (1b8poS-10o6UnpJphdeqv351D2aKK5O4v, application/pdf) ---
+2026-07-06 17:55:26 [INFO    ] Downloading: ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf → ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf
+2026-07-06 17:55:29 [DEBUG   ] Download progress: ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf — 100%
+2026-07-06 17:55:29 [INFO    ] Downloaded: ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf (1422612 bytes)
+2026-07-06 17:55:29 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 161-2023 Air Quality within Commercial Aircraft.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:29 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:29 [INFO    ] --- Processing: ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf (16DZT_RQWKBP8y1U6Pvp3B9KtBIGGoBtJ, application/pdf) ---
+2026-07-06 17:55:29 [INFO    ] Downloading: ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf → ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf
+2026-07-06 17:55:33 [DEBUG   ] Download progress: ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf — 100%
+2026-07-06 17:55:33 [INFO    ] Downloaded: ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf (4410897 bytes)
+2026-07-06 17:55:33 [ERROR   ] Dify upload fatal: ASHRAE Guideline 44-2024 Protecting Building Occupants from Smoke During Wildfire and Prescribed Burn Events.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:33 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:33 [INFO    ] --- Processing: ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf (14rDLNsaSsjx2hRNxEtC9bb6KgvR42C25, application/pdf) ---
+2026-07-06 17:55:33 [INFO    ] Downloading: ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf → ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf
+2026-07-06 17:55:35 [DEBUG   ] Download progress: ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf — 100%
+2026-07-06 17:55:35 [INFO    ] Downloaded: ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf (2039717 bytes)
+2026-07-06 17:55:36 [ERROR   ] Dify upload fatal: ASHRAE Standard 241-2023 Control of Infectious Aerosols.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:36 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:36 [INFO    ] --- Processing: ANSI ASHRAEASHE Standard 170-2021.pdf (1JJrhhMrQoo4ZE-i15y9BOTFMPO5c92Jd, application/pdf) ---
+2026-07-06 17:55:36 [INFO    ] Downloading: ANSI ASHRAEASHE Standard 170-2021.pdf → ANSI ASHRAEASHE Standard 170-2021.pdf
+2026-07-06 17:55:37 [DEBUG   ] Download progress: ANSI ASHRAEASHE Standard 170-2021.pdf — 100%
+2026-07-06 17:55:37 [INFO    ] Downloaded: ANSI ASHRAEASHE Standard 170-2021.pdf (801936 bytes)
+2026-07-06 17:55:37 [ERROR   ] Dify upload fatal: ANSI ASHRAEASHE Standard 170-2021.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:37 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:37 [INFO    ] --- Processing: Trane HVAC System Control 2002.pdf (1v5yy4xqi_ZwIpKE0aDLP0v_sXVSkgfhx, application/pdf) ---
+2026-07-06 17:55:37 [INFO    ] Downloading: Trane HVAC System Control 2002.pdf → Trane HVAC System Control 2002.pdf
+2026-07-06 17:55:39 [DEBUG   ] Download progress: Trane HVAC System Control 2002.pdf — 100%
+2026-07-06 17:55:39 [INFO    ] Downloaded: Trane HVAC System Control 2002.pdf (1554877 bytes)
+2026-07-06 17:55:40 [ERROR   ] Dify upload fatal: Trane HVAC System Control 2002.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:40 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:40 [INFO    ] --- Processing: Trane Chilled-Water Systems 2001.pdf (1n1JJWYyxDx_IvR3Tiylsev8JoNdsWPh0, application/pdf) ---
+2026-07-06 17:55:40 [INFO    ] Downloading: Trane Chilled-Water Systems 2001.pdf → Trane Chilled-Water Systems 2001.pdf
+2026-07-06 17:55:42 [DEBUG   ] Download progress: Trane Chilled-Water Systems 2001.pdf — 100%
+2026-07-06 17:55:42 [INFO    ] Downloaded: Trane Chilled-Water Systems 2001.pdf (1968072 bytes)
+2026-07-06 17:55:43 [ERROR   ] Dify upload fatal: Trane Chilled-Water Systems 2001.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:43 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:43 [INFO    ] --- Processing: ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf (1sMvpR-oZfp-95a2exiuF7hMOBYY60n53, application/pdf) ---
+2026-07-06 17:55:43 [INFO    ] Downloading: ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf → ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf
+2026-07-06 17:55:45 [DEBUG   ] Download progress: ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf — 100%
+2026-07-06 17:55:45 [INFO    ] Downloaded: ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf (3155939 bytes)
+2026-07-06 17:55:46 [ERROR   ] Dify upload fatal: ASHRAE Guideline 11-2021 Field Testing of HVAC Controls Components.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:46 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:46 [INFO    ] --- Processing: ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf (1uW7nvJYQ6pgOEkUXakYqNTgwd_EEc3GU, application/pdf) ---
+2026-07-06 17:55:46 [INFO    ] Downloading: ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf → ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf
+2026-07-06 17:55:48 [DEBUG   ] Download progress: ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf — 100%
+2026-07-06 17:55:48 [INFO    ] Downloaded: ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf (1229803 bytes)
+2026-07-06 17:55:48 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 205-2023 Representation of Performance Data for HVACR and Other Facility Equipment.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:48 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:48 [INFO    ] --- Processing: Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf (11qetErqaNCaTapIrSiGPYzJ_J-3ETVAn, application/pdf) ---
+2026-07-06 17:55:48 [INFO    ] Downloading: Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf → Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf
+2026-07-06 17:55:53 [DEBUG   ] Download progress: Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf — 100%
+2026-07-06 17:55:53 [INFO    ] Downloaded: Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf (9636487 bytes)
+2026-07-06 17:55:54 [ERROR   ] Dify upload fatal: Engineering and Management of Data Centers IT Service Management Approach 2017 Jorge Gómez etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:54 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:54 [INFO    ] --- Processing: ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf (13a5v90u7wHbMeh-JHngI_Q2z-W_b0Yz5, application/pdf) ---
+2026-07-06 17:55:54 [INFO    ] Downloading: ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf → ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf
+2026-07-06 17:55:56 [DEBUG   ] Download progress: ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf — 100%
+2026-07-06 17:55:56 [INFO    ] Downloaded: ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf (2453953 bytes)
+2026-07-06 17:55:56 [ERROR   ] Dify upload fatal: ANSI ASHRAE Standard 90.4-2022 Energy Standard for Data Centers.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:57 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:57 [INFO    ] --- Processing: Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf (1cO9SBgW3wUbREK2CpVwoEY7OgxopJkVz, application/pdf) ---
+2026-07-06 17:55:57 [INFO    ] Downloading: Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf → Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf
+2026-07-06 17:55:58 [DEBUG   ] Download progress: Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf — 100%
+2026-07-06 17:55:58 [INFO    ] Downloaded: Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf (1845029 bytes)
+2026-07-06 17:55:59 [ERROR   ] Dify upload fatal: Operation Optimization of Liquid Cooling Systems in Data Centers 2020 Wei Chen etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:55:59 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:55:59 [INFO    ] --- Processing: IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf (17I6fJ7KiMXvrpX2ZtTJIiAZtQrfr2yEO, application/pdf) ---
+2026-07-06 17:55:59 [INFO    ] Downloading: IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf → IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf
+2026-07-06 17:56:00 [DEBUG   ] Download progress: IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf — 100%
+2026-07-06 17:56:00 [INFO    ] Downloaded: IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf (689788 bytes)
+2026-07-06 17:56:01 [ERROR   ] Dify upload fatal: IEEE 2020 19th Intersociety Conference on Thermal and Thermomechanical Phenomena in Electronic Systems ITHERM Ruiyu Fu etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:01 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:01 [INFO    ] --- Processing: Cooling With Liquid Electronics Take The Plunge 2023.pdf (1Svelj0hGZ8zjrk5K6_fAKiKP5lD4NqSn, application/pdf) ---
+2026-07-06 17:56:01 [INFO    ] Downloading: Cooling With Liquid Electronics Take The Plunge 2023.pdf → Cooling With Liquid Electronics Take The Plunge 2023.pdf
+2026-07-06 17:56:04 [DEBUG   ] Download progress: Cooling With Liquid Electronics Take The Plunge 2023.pdf — 100%
+2026-07-06 17:56:04 [INFO    ] Downloaded: Cooling With Liquid Electronics Take The Plunge 2023.pdf (9643328 bytes)
+2026-07-06 17:56:05 [ERROR   ] Dify upload fatal: Cooling With Liquid Electronics Take The Plunge 2023.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:05 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:05 [INFO    ] --- Processing: REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf (1oi-F47GQy-tYzMJTAo9QbAef1Sc9ERr0, application/pdf) ---
+2026-07-06 17:56:05 [INFO    ] Downloading: REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf → REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf
+2026-07-06 17:56:09 [DEBUG   ] Download progress: REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf — 100%
+2026-07-06 17:56:09 [INFO    ] Downloaded: REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf (4555116 bytes)
+2026-07-06 17:56:10 [ERROR   ] Dify upload fatal: REHVA Guidebook No7 - Low Temperature Heating and High Temperature Cooling 2020 Jan Babiak etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:10 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:10 [INFO    ] --- Processing: Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub (1Sw6E0db7C-zYQxp62u1dDaBm4fG1riBV, application/epub+zip) ---
+2026-07-06 17:56:10 [INFO    ] Downloading: Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub → Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub
+2026-07-06 17:56:14 [DEBUG   ] Download progress: Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub — 100%
+2026-07-06 17:56:14 [INFO    ] Downloaded: Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub (8645733 bytes)
+2026-07-06 17:56:15 [ERROR   ] Dify upload fatal: Advanced Concepts for Renewable Energy Supply of Data Centres 2017 Jaume Salom.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:15 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:15 [INFO    ] --- Processing: CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub (1J43m201pnkqDJ3dGYVvVUXz9JDZMnyAk, application/epub+zip) ---
+2026-07-06 17:56:15 [INFO    ] Downloading: CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub → CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub
+2026-07-06 17:56:16 [DEBUG   ] Download progress: CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub — 100%
+2026-07-06 17:56:16 [INFO    ] Downloaded: CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub (568027 bytes)
+2026-07-06 17:56:17 [ERROR   ] Dify upload fatal: CIBSE Commissioning Code C Automatic Controls 2001 Kevin Pennycook.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:17 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:17 [INFO    ] --- Processing: CIBSE Commissioning Code M Commissioning Management 2003.epub (1LHEaIMq2YwPooHtu4w2D7KjHRrWSP7VO, application/epub+zip) ---
+2026-07-06 17:56:17 [INFO    ] Downloading: CIBSE Commissioning Code M Commissioning Management 2003.epub → CIBSE Commissioning Code M Commissioning Management 2003.epub
+2026-07-06 17:56:18 [DEBUG   ] Download progress: CIBSE Commissioning Code M Commissioning Management 2003.epub — 100%
+2026-07-06 17:56:18 [INFO    ] Downloaded: CIBSE Commissioning Code M Commissioning Management 2003.epub (680159 bytes)
+2026-07-06 17:56:19 [ERROR   ] Dify upload fatal: CIBSE Commissioning Code M Commissioning Management 2003.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:19 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:19 [INFO    ] --- Processing: The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub (1L-0fTPbVhZ5lZSSYTfllgywpVKZxBqSw, application/epub+zip) ---
+2026-07-06 17:56:19 [INFO    ] Downloading: The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub → The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub
+2026-07-06 17:56:21 [DEBUG   ] Download progress: The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub — 100%
+2026-07-06 17:56:21 [INFO    ] Downloaded: The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub (1202685 bytes)
+2026-07-06 17:56:21 [ERROR   ] Dify upload fatal: The Adventure of Sustainable Performance Beyond ESG Compliance To Leadership In the New ERA 2023 Stuart McLachlan etc.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:21 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:21 [INFO    ] --- Processing: ESGs Come Away with ESG 2023 Cheri Percy.pdf (10midYToMuQrym0ZCn6M-TA__lCO034Fe, application/pdf) ---
+2026-07-06 17:56:21 [INFO    ] Downloading: ESGs Come Away with ESG 2023 Cheri Percy.pdf → ESGs Come Away with ESG 2023 Cheri Percy.pdf
+2026-07-06 17:56:24 [DEBUG   ] Download progress: ESGs Come Away with ESG 2023 Cheri Percy.pdf — 100%
+2026-07-06 17:56:24 [INFO    ] Downloaded: ESGs Come Away with ESG 2023 Cheri Percy.pdf (3982085 bytes)
+2026-07-06 17:56:24 [ERROR   ] Dify upload fatal: ESGs Come Away with ESG 2023 Cheri Percy.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:24 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:24 [INFO    ] --- Processing: ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub (1sa6By1woVEyQ29vIjX9gY4jmfHu0xo67, application/epub+zip) ---
+2026-07-06 17:56:24 [INFO    ] Downloading: ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub → ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub
+2026-07-06 17:56:26 [DEBUG   ] Download progress: ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub — 100%
+2026-07-06 17:56:26 [INFO    ] Downloaded: ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub (3677831 bytes)
+2026-07-06 17:56:27 [ERROR   ] Dify upload fatal: ESG The Insights You Need from Harvard Business Review 2023 Harvard Business Review.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:27 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:27 [INFO    ] --- Processing: Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub (1-jLFl1U-ugnY1dJKRM9zSsK52Io8BDP7, application/epub+zip) ---
+2026-07-06 17:56:27 [INFO    ] Downloading: Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub → Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub
+2026-07-06 17:56:28 [DEBUG   ] Download progress: Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub — 100%
+2026-07-06 17:56:28 [INFO    ] Downloaded: Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub (265840 bytes)
+2026-07-06 17:56:29 [ERROR   ] Dify upload fatal: Smarter is greener can intelligent manufacturing improve enterprises ESG 2025 Da Gao etc.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:29 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:29 [INFO    ] --- Processing: ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub (1Z31Xl3cCEEyBOMZdL5rccgBLCWD45xOQ, application/epub+zip) ---
+2026-07-06 17:56:29 [INFO    ] Downloading: ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub → ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub
+2026-07-06 17:56:31 [DEBUG   ] Download progress: ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub — 100%
+2026-07-06 17:56:31 [INFO    ] Downloaded: ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub (1325490 bytes)
+2026-07-06 17:56:32 [ERROR   ] Dify upload fatal: ESG a window into financial health and sustainable goals 2026 Gopal Acharya etc.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:32 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:32 [INFO    ] --- Processing: Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub (1-IiYIYOhoMAFYgAaxv8G5624IugCLXRG, application/epub+zip) ---
+2026-07-06 17:56:32 [INFO    ] Downloading: Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub → Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub
+2026-07-06 17:56:35 [DEBUG   ] Download progress: Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub — 100%
+2026-07-06 17:56:35 [INFO    ] Downloaded: Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub (5306654 bytes)
+2026-07-06 17:56:36 [ERROR   ] Dify upload fatal: Ultimate ITIL 4 for Intelligent and Sustainable Service Management 2026 Sankarsan Biswas.epub — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:36 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:36 [INFO    ] --- Processing: ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf (16uMNEFUsjYGkgr0gYUAhBJfepcTSGv3V, application/pdf) ---
+2026-07-06 17:56:36 [INFO    ] Downloading: ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf → ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf
+2026-07-06 17:56:38 [DEBUG   ] Download progress: ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf — 100%
+2026-07-06 17:56:38 [INFO    ] Downloaded: ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf (2385212 bytes)
+2026-07-06 17:56:39 [ERROR   ] Dify upload fatal: ESG Unlocked How Successful Companies and Investors Build Our Natural Social Human and Financial Capital 2025 Josh Dowse etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:39 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:39 [INFO    ] --- Processing: Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf (1RCh_5AGd1XMrO7E4tQd1ypRCVcoyXUGh, application/pdf) ---
+2026-07-06 17:56:39 [INFO    ] Downloading: Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf → Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf
+2026-07-06 17:56:40 [DEBUG   ] Download progress: Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf — 100%
+2026-07-06 17:56:40 [INFO    ] Downloaded: Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf (495965 bytes)
+2026-07-06 17:56:41 [ERROR   ] Dify upload fatal: Artificial Intelligence ESG Investments and the Future of Tokenized Assets 2026 Sean Smith.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:41 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:41 [INFO    ] --- Processing: ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf (1ycd6J_SWXHge8tO8jb2S2O34udqx8wis, application/pdf) ---
+2026-07-06 17:56:41 [INFO    ] Downloading: ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf → ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf
+2026-07-06 17:56:45 [DEBUG   ] Download progress: ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf — 100%
+2026-07-06 17:56:45 [INFO    ] Downloaded: ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf (7704290 bytes)
+2026-07-06 17:56:45 [ERROR   ] Dify upload fatal: ERS Practical Handbook of Invasive Mechanical Ventilation 2019 Leo Heunks etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:45 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:45 [INFO    ] --- Processing: NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf (1gU8LdnM7gX54GAoNTRTIxzObkC_MFl1T, application/pdf) ---
+2026-07-06 17:56:45 [INFO    ] Downloading: NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf → NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf
+2026-07-06 17:56:48 [DEBUG   ] Download progress: NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf — 100%
+2026-07-06 17:56:48 [INFO    ] Downloaded: NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf (3171097 bytes)
+2026-07-06 17:56:49 [ERROR   ] Dify upload fatal: NFPA 96 Standard for Ventilation Control and Fire Protection of Commercial Cooking Operations 2021.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:49 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:49 [INFO    ] --- Processing: EPA_Offices_Ventilation_Factsheet_1990.pdf (1AV3MZU1QKRFlBDLPQptbfIwn2eswjL6s, application/pdf) ---
+2026-07-06 17:56:49 [INFO    ] Downloading: EPA_Offices_Ventilation_Factsheet_1990.pdf → EPA_Offices_Ventilation_Factsheet_1990.pdf
+2026-07-06 17:56:50 [DEBUG   ] Download progress: EPA_Offices_Ventilation_Factsheet_1990.pdf — 100%
+2026-07-06 17:56:50 [INFO    ] Downloaded: EPA_Offices_Ventilation_Factsheet_1990.pdf (44283 bytes)
+2026-07-06 17:56:50 [ERROR   ] Dify upload fatal: EPA_Offices_Ventilation_Factsheet_1990.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:50 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:50 [INFO    ] --- Processing: CIBSE Guide B2 Ventilation and Ductwork 2016.pdf (1jIxrKoiqh5O4nkDwHafk5x1fhRexR7KJ, application/pdf) ---
+2026-07-06 17:56:50 [WARNING ] File too large (15MB > 14MB) — deferring: CIBSE Guide B2 Ventilation and Ductwork 2016.pdf
+2026-07-06 17:56:50 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:50 [INFO    ] --- Processing: Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf (1u4SZlSIX8Ob-pV6gmOtDMJPV6_MeW_bp, application/pdf) ---
+2026-07-06 17:56:50 [INFO    ] Downloading: Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf → Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf
+2026-07-06 17:56:54 [DEBUG   ] Download progress: Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf — 100%
+2026-07-06 17:56:54 [INFO    ] Downloaded: Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf (10432913 bytes)
+2026-07-06 17:56:55 [ERROR   ] Dify upload fatal: Air Quality Management and Research in Southeast Asia 2024 Velasco etc.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:55 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:55 [INFO    ] --- Processing: ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf (1e_refZx5u7YHNgA1xysG698uXPbgMYS6, application/pdf) ---
+2026-07-06 17:56:55 [INFO    ] Downloading: ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf → ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf
+2026-07-06 17:56:57 [DEBUG   ] Download progress: ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf — 100%
+2026-07-06 17:56:57 [INFO    ] Downloaded: ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf (1785306 bytes)
+2026-07-06 17:56:57 [ERROR   ] Dify upload fatal: ASHRAE Standard 62.1-2022 Ventilation and Acceptable Indoor Air Quality 2022.pdf — Dify upload failed (HTTP 403): {"code":"forbidden","message":"Sorry, you have reached the knowledge base request rate limit of your subscription.","status":403}
+
+2026-07-06 17:56:57 [DEBUG   ] State saved atomically: 23 processed
+2026-07-06 17:56:57 [INFO    ] --- Loop 1 done: 10 files this iteration ---
+2026-07-06 17:56:57 [DEBUG   ] Cleaned up tmp dir: /tmp/drive-dify-pipeline
+2026-07-06 17:56:57 [INFO    ] PID lock released
+2026-07-06 17:56:57 [INFO    ] Pipeline finished in 164.5s: 10 ingested, 0 skipped, 39 failed, 1 deferred, 10 deleted from Drive
